@@ -1,0 +1,16 @@
+{
+    "name": "skins_search",
+    "version": "1.0",
+    "description": "Search for CS:GO skins and shows it prices",
+    "main": "bot-discord.js",
+    "author": "Caue Obici",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "discord.io": "^2.5.3",
+        "discord.js": "^11.4.2",
+        "fs": "0.0.1-security",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "winston": "^3.2.1"
+    }
+}
