@@ -166,6 +166,8 @@ function sendMessage(channel) {
         color = 0xffdd28;
     }
 
+    description += 'Collection: ' + skinObj.collection;
+
     description += '\nPrices:\n\n';
 
     getLink(skinObj.skinurl, channel, skinObj);
