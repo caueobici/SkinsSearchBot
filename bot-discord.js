@@ -121,8 +121,8 @@ function getSkin(skin_name, channel) {
 
 function sendMessage(channel) {
     if (final.length > 1) {
-        channel.send('Foram encontradas ' + final.length + ' skins, deseja ver o nome de todas elas?(.S/.N)');
-        channel.send('Para mais detalhamento de skins, digite o nome completo da skin');
+        channel.send(final.length + 'found, want to see the name of all of them(.Y/.N)');
+        channel.send('For more details, enter the entire name of the skin');
         status = 'waiting';
         return null;
     }
@@ -182,6 +182,7 @@ function sendEmbed(channel, skinObj){
 
 }
 
+
 client.on('ready', () => {
     console.log('I am ready');
     console.log(size(skins) + ' skins loaded');
@@ -194,9 +195,9 @@ client.on('message', message => {
         skinObj = getSkin(skin, message.channel);
     }
     else if (message.content.replace(/\s/g, '') === '.search') {
-        message.channel.send('Insira o nome da skin que você gostaria de procurar');
+        message.channel.send('Enter the name of skin you want to search');
     }
-    else if (message.content.toLowerCase() === '.s' & status === 'waiting') {
+    else if (message.content.toLowerCase() === '.y' & status === 'waiting') {
         skins_name_show = '';
         for (var i in final) {
             skins_name_show += final[i].name + '\n';
@@ -205,13 +206,18 @@ client.on('message', message => {
         status = 'normal';
     }
     else if (message.content.toLowerCase() === '.n' & status === 'waiting') {
-        message.channel.send('Tente digitar .search (nome da skin) novamente para achar a skin que você procura');
+        message.channel.send('Try to type .search [skin name] again to find the skin you are looking for');
+        status = 'normal';
     }
 
     else if (message.content.toLowerCase() === '.help'){
-        message.channel.send('Pesquisar skin\n .search [nome da skin]');
+        embedHelp = new Discord.RichEmbed()
+            .setDescription("Search skin:\n\n.search [skin name]")
+            .setColor(0xffa500)
+        message.channel.send(embedHelp);
     }
 
 });
+
 
 client.login(token);
