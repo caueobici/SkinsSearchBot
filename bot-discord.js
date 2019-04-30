@@ -161,12 +161,15 @@ function sendMessage(channel) {
         }
 
     }
-    else {
+    else if (skinObj.quality == 'Covert Knife\n\n'){
         description += 'Knife: ' + skinObj.weapon + '\n';
         color = 0xffdd28;
     }
 
-    description += 'Collection: ' + skinObj.collection;
+    else{
+        description += 'Glove ' + skinObj.weapon + '\n'
+        color = 0xffdd28;
+    }
 
     description += '\nPrices:\n\n';
 

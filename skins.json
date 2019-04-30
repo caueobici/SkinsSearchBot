@@ -6,18 +6,18 @@
         "skinurl": "https://csgostash.com/skin/262/CZ75-Auto-Victoria",
         "weapon": "CZ75 Auto"
     },
-    "CZ75-Auto | Xiangliu": {
-        "name": "CZ75-Auto | Xiangliu",
-        "quality": "Classified Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz_snakes_purple_light_large.a06599fab1d73352fd970fc0356c215c50ca7e9a.png",
-        "skinurl": "https://csgostash.com/skin/846/CZ75-Auto-Xiangliu",
-        "weapon": "CZ75 Auto"
-    },
     "CZ75-Auto | Yellow Jacket": {
         "name": "CZ75-Auto | Yellow Jacket",
         "quality": "Classified Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png",
         "skinurl": "https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket",
+        "weapon": "CZ75 Auto"
+    },
+    "CZ75-Auto | Xiangliu": {
+        "name": "CZ75-Auto | Xiangliu",
+        "quality": "Classified Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz_snakes_purple_light_large.a06599fab1d73352fd970fc0356c215c50ca7e9a.png",
+        "skinurl": "https://csgostash.com/skin/846/CZ75-Auto-Xiangliu",
         "weapon": "CZ75 Auto"
     },
     "CZ75-Auto | The Fuschia Is Now": {
@@ -27,13 +27,6 @@
         "skinurl": "https://csgostash.com/skin/260/CZ75-Auto-The-Fuschia-Is-Now",
         "weapon": "CZ75 Auto"
     },
-    "CZ75-Auto | Eco": {
-        "name": "CZ75-Auto | Eco",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_eco_light_large.19aa7b914ac71968e73ac48b112b9f4c8116c767.png",
-        "skinurl": "https://csgostash.com/skin/938/CZ75-Auto-Eco",
-        "weapon": "CZ75 Auto"
-    },
     "CZ75-Auto | Tacticat": {
         "name": "CZ75-Auto | Tacticat",
         "quality": "Restricted Pistol\n\n",
@@ -41,11 +34,11 @@
         "skinurl": "https://csgostash.com/skin/906/CZ75-Auto-Tacticat",
         "weapon": "CZ75 Auto"
     },
-    "CZ75-Auto | Red Astor": {
-        "name": "CZ75-Auto | Red Astor",
+    "CZ75-Auto | Eco": {
+        "name": "CZ75-Auto | Eco",
         "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75a_redastor_light_large.e00e688986c50877a103fe66d70fdf1fc13bbe8b.png",
-        "skinurl": "https://csgostash.com/skin/737/CZ75-Auto-Red-Astor",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_eco_light_large.19aa7b914ac71968e73ac48b112b9f4c8116c767.png",
+        "skinurl": "https://csgostash.com/skin/938/CZ75-Auto-Eco",
         "weapon": "CZ75 Auto"
     },
     "CZ75-Auto | Pole Position": {
@@ -53,6 +46,13 @@
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_precision_light_large.a0d0ea9d92ff9c535cbdaa9c07a1a95a5181a82b.png",
         "skinurl": "https://csgostash.com/skin/559/CZ75-Auto-Pole-Position",
+        "weapon": "CZ75 Auto"
+    },
+    "CZ75-Auto | Red Astor": {
+        "name": "CZ75-Auto | Red Astor",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75a_redastor_light_large.e00e688986c50877a103fe66d70fdf1fc13bbe8b.png",
+        "skinurl": "https://csgostash.com/skin/737/CZ75-Auto-Red-Astor",
         "weapon": "CZ75 Auto"
     },
     "CZ75-Auto | Tigris": {
@@ -83,18 +83,18 @@
         "skinurl": "https://csgostash.com/skin/816/CZ75-Auto-Polymer",
         "weapon": "CZ75 Auto"
     },
-    "CZ75-Auto | Imprint": {
-        "name": "CZ75-Auto | Imprint",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_tread_light_large.8c276db730bb33477aaa52f7a23825f295e14364.png",
-        "skinurl": "https://csgostash.com/skin/801/CZ75-Auto-Imprint",
-        "weapon": "CZ75 Auto"
-    },
     "CZ75-Auto | Hexane": {
         "name": "CZ75-Auto | Hexane",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_bluehex_light_large.032e4b0999830a45d7439d07faef66b8299a105f.png",
         "skinurl": "https://csgostash.com/skin/477/CZ75-Auto-Hexane",
+        "weapon": "CZ75 Auto"
+    },
+    "CZ75-Auto | Imprint": {
+        "name": "CZ75-Auto | Imprint",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_tread_light_large.8c276db730bb33477aaa52f7a23825f295e14364.png",
+        "skinurl": "https://csgostash.com/skin/801/CZ75-Auto-Imprint",
         "weapon": "CZ75 Auto"
     },
     "CZ75-Auto | Twist": {
@@ -132,18 +132,18 @@
         "skinurl": "https://csgostash.com/skin/442/CZ75-Auto-Nitro",
         "weapon": "CZ75 Auto"
     },
-    "CZ75-Auto | Tuxedo": {
-        "name": "CZ75-Auto | Tuxedo",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_so_orca_light_large.8490865eba36c09ccd75a9b1f93445ff2e9f2b8f.png",
-        "skinurl": "https://csgostash.com/skin/358/CZ75-Auto-Tuxedo",
-        "weapon": "CZ75 Auto"
-    },
     "CZ75-Auto | Army Sheen": {
         "name": "CZ75-Auto | Army Sheen",
         "quality": "Consumer Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_army_shine_light_large.26736d48ea09a5284aeb1cf11292bc3e87a56251.png",
         "skinurl": "https://csgostash.com/skin/585/CZ75-Auto-Army-Sheen",
+        "weapon": "CZ75 Auto"
+    },
+    "CZ75-Auto | Tuxedo": {
+        "name": "CZ75-Auto | Tuxedo",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_so_orca_light_large.8490865eba36c09ccd75a9b1f93445ff2e9f2b8f.png",
+        "skinurl": "https://csgostash.com/skin/358/CZ75-Auto-Tuxedo",
         "weapon": "CZ75 Auto"
     },
     "CZ75-Auto | Green Plaid": {
@@ -152,13 +152,6 @@
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_plaid2_light_large.82e391ba61c092ece265e3bde16237ab5a510130.png",
         "skinurl": "https://csgostash.com/skin/414/CZ75-Auto-Green-Plaid",
         "weapon": "CZ75 Auto"
-    },
-    "Desert Eagle | Golden Koi": {
-        "name": "Desert Eagle | Golden Koi",
-        "quality": "Covert Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_scales_bravo_light_large.6cba46695e74a8bee932ea90cea24e146cbef5e7.png",
-        "skinurl": "https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi",
-        "weapon": "Desert Eagle"
     },
     "Desert Eagle | Code Red": {
         "name": "Desert Eagle | Code Red",
@@ -174,18 +167,18 @@
         "skinurl": "https://csgostash.com/skin/1050/Desert-Eagle-Mecha-Industries",
         "weapon": "Desert Eagle"
     },
+    "Desert Eagle | Golden Koi": {
+        "name": "Desert Eagle | Golden Koi",
+        "quality": "Covert Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_scales_bravo_light_large.6cba46695e74a8bee932ea90cea24e146cbef5e7.png",
+        "skinurl": "https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi",
+        "weapon": "Desert Eagle"
+    },
     "Desert Eagle | Kumicho Dragon": {
         "name": "Desert Eagle | Kumicho Dragon",
         "quality": "Classified Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_deserteagle_kumichodragon_light_large.19874e9a20cfac49efbe1f1557b995e453633ffe.png",
         "skinurl": "https://csgostash.com/skin/718/Desert-Eagle-Kumicho-Dragon",
-        "weapon": "Desert Eagle"
-    },
-    "Desert Eagle | Cobalt Disruption": {
-        "name": "Desert Eagle | Cobalt Disruption",
-        "quality": "Classified Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.a486db3160bcdcf6bc5a1d8179c450b02f620151.png",
-        "skinurl": "https://csgostash.com/skin/240/Desert-Eagle-Cobalt-Disruption",
         "weapon": "Desert Eagle"
     },
     "Desert Eagle | Conspiracy": {
@@ -195,6 +188,13 @@
         "skinurl": "https://csgostash.com/skin/402/Desert-Eagle-Conspiracy",
         "weapon": "Desert Eagle"
     },
+    "Desert Eagle | Cobalt Disruption": {
+        "name": "Desert Eagle | Cobalt Disruption",
+        "quality": "Classified Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.a486db3160bcdcf6bc5a1d8179c450b02f620151.png",
+        "skinurl": "https://csgostash.com/skin/240/Desert-Eagle-Cobalt-Disruption",
+        "weapon": "Desert Eagle"
+    },
     "Desert Eagle | Hypnotic": {
         "name": "Desert Eagle | Hypnotic",
         "quality": "Classified Pistol\n\n",
@@ -202,18 +202,18 @@
         "skinurl": "https://csgostash.com/skin/83/Desert-Eagle-Hypnotic",
         "weapon": "Desert Eagle"
     },
-    "Desert Eagle | Light Rail": {
-        "name": "Desert Eagle | Light Rail",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_exo_light_large.8bdc93f1b45efba187748065deff967eef8f2f2d.png",
-        "skinurl": "https://csgostash.com/skin/1065/Desert-Eagle-Light-Rail",
-        "weapon": "Desert Eagle"
-    },
     "Desert Eagle | Directive": {
         "name": "Desert Eagle | Directive",
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_desert_eagle_constable_light_large.fb2f2673dd3997a21bff9129e0d2e294c03095e8.png",
         "skinurl": "https://csgostash.com/skin/802/Desert-Eagle-Directive",
+        "weapon": "Desert Eagle"
+    },
+    "Desert Eagle | Light Rail": {
+        "name": "Desert Eagle | Light Rail",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_exo_light_large.8bdc93f1b45efba187748065deff967eef8f2f2d.png",
+        "skinurl": "https://csgostash.com/skin/1065/Desert-Eagle-Light-Rail",
         "weapon": "Desert Eagle"
     },
     "Desert Eagle | Naga": {
@@ -230,13 +230,6 @@
         "skinurl": "https://csgostash.com/skin/471/Desert-Eagle-Crimson-Web",
         "weapon": "Desert Eagle"
     },
-    "Desert Eagle | Heirloom": {
-        "name": "Desert Eagle | Heirloom",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_engraved_deagle_light_large.804a1a01a29bf80673b739f3eb220272a6838193.png",
-        "skinurl": "https://csgostash.com/skin/258/Desert-Eagle-Heirloom",
-        "weapon": "Desert Eagle"
-    },
     "Desert Eagle | Sunset Storm 弐": {
         "name": "Desert Eagle | Sunset Storm 弐",
         "quality": "Restricted Pistol\n\n",
@@ -244,11 +237,11 @@
         "skinurl": "https://csgostash.com/skin/626/Desert-Eagle-Sunset-Storm-%E5%BC%90",
         "weapon": "Desert Eagle"
     },
-    "Desert Eagle | Sunset Storm 壱": {
-        "name": "Desert Eagle | Sunset Storm 壱",
+    "Desert Eagle | Heirloom": {
+        "name": "Desert Eagle | Heirloom",
         "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_seastorm_blood_light_large.1e92a7e19fde014e5a70832a93b440e0c036d596.png",
-        "skinurl": "https://csgostash.com/skin/625/Desert-Eagle-Sunset-Storm-%E5%A3%B1",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_engraved_deagle_light_large.804a1a01a29bf80673b739f3eb220272a6838193.png",
+        "skinurl": "https://csgostash.com/skin/258/Desert-Eagle-Heirloom",
         "weapon": "Desert Eagle"
     },
     "Desert Eagle | Hand Cannon": {
@@ -256,6 +249,13 @@
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_handcannon_light_large.e6e87ceb2337a423d225dc177342af3df4069585.png",
         "skinurl": "https://csgostash.com/skin/432/Desert-Eagle-Hand-Cannon",
+        "weapon": "Desert Eagle"
+    },
+    "Desert Eagle | Sunset Storm 壱": {
+        "name": "Desert Eagle | Sunset Storm 壱",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_seastorm_blood_light_large.1e92a7e19fde014e5a70832a93b440e0c036d596.png",
+        "skinurl": "https://csgostash.com/skin/625/Desert-Eagle-Sunset-Storm-%E5%A3%B1",
         "weapon": "Desert Eagle"
     },
     "Desert Eagle | Pilot": {
@@ -286,18 +286,18 @@
         "skinurl": "https://csgostash.com/skin/676/Desert-Eagle-Corinthian",
         "weapon": "Desert Eagle"
     },
-    "Desert Eagle | Meteorite": {
-        "name": "Desert Eagle | Meteorite",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_crystallized_dark_light_large.2d7d753a893ec3f0a470af9690aa64dcecd7146f.png",
-        "skinurl": "https://csgostash.com/skin/359/Desert-Eagle-Meteorite",
-        "weapon": "Desert Eagle"
-    },
     "Desert Eagle | Bronze Deco": {
         "name": "Desert Eagle | Bronze Deco",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_bronze_sparkle_light_large.42dc1d2bae9e586f75d6425f94a195014891533b.png",
         "skinurl": "https://csgostash.com/skin/565/Desert-Eagle-Bronze-Deco",
+        "weapon": "Desert Eagle"
+    },
+    "Desert Eagle | Meteorite": {
+        "name": "Desert Eagle | Meteorite",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_crystallized_dark_light_large.2d7d753a893ec3f0a470af9690aa64dcecd7146f.png",
+        "skinurl": "https://csgostash.com/skin/359/Desert-Eagle-Meteorite",
         "weapon": "Desert Eagle"
     },
     "Desert Eagle | Urban Rubble": {
@@ -349,18 +349,18 @@
         "skinurl": "https://csgostash.com/skin/1034/Dual-Berettas-Twin-Turbo",
         "weapon": "Dual Berettas"
     },
-    "Dual Berettas | Royal Consorts": {
-        "name": "Dual Berettas | Royal Consorts",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_berettas_golden_venice_light_large.23d73db6cf2b2a7af26414d26373171dd3be06b1.png",
-        "skinurl": "https://csgostash.com/skin/823/Dual-Berettas-Royal-Consorts",
-        "weapon": "Dual Berettas"
-    },
     "Dual Berettas | Urban Shock": {
         "name": "Dual Berettas | Urban Shock",
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_urbanstorm_light_large.d33c9dd65434d8b9f4e7b5092fcc2e07a874e625.png",
         "skinurl": "https://csgostash.com/skin/522/Dual-Berettas-Urban-Shock",
+        "weapon": "Dual Berettas"
+    },
+    "Dual Berettas | Royal Consorts": {
+        "name": "Dual Berettas | Royal Consorts",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_berettas_golden_venice_light_large.23d73db6cf2b2a7af26414d26373171dd3be06b1.png",
+        "skinurl": "https://csgostash.com/skin/823/Dual-Berettas-Royal-Consorts",
         "weapon": "Dual Berettas"
     },
     "Dual Berettas | Marina": {
@@ -377,18 +377,18 @@
         "skinurl": "https://csgostash.com/skin/129/Dual-Berettas-Hemoglobin",
         "weapon": "Dual Berettas"
     },
-    "Dual Berettas | Cobalt Quartz": {
-        "name": "Dual Berettas | Cobalt Quartz",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_crystallized_blue_light_large.5756d02f9908e1c4d70e6f1d9dae53b3731fc0fd.png",
-        "skinurl": "https://csgostash.com/skin/172/Dual-Berettas-Cobalt-Quartz",
-        "weapon": "Dual Berettas"
-    },
     "Dual Berettas | Duelist": {
         "name": "Dual Berettas | Duelist",
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_mother_of_pearl_elite_light_large.2023e44b16f064c32962b691bcdb5d45051744bc.png",
         "skinurl": "https://csgostash.com/skin/597/Dual-Berettas-Duelist",
+        "weapon": "Dual Berettas"
+    },
+    "Dual Berettas | Cobalt Quartz": {
+        "name": "Dual Berettas | Cobalt Quartz",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_crystallized_blue_light_large.5756d02f9908e1c4d70e6f1d9dae53b3731fc0fd.png",
+        "skinurl": "https://csgostash.com/skin/172/Dual-Berettas-Cobalt-Quartz",
         "weapon": "Dual Berettas"
     },
     "Dual Berettas | Demolition": {
@@ -405,18 +405,18 @@
         "skinurl": "https://csgostash.com/skin/932/Dual-Berettas-Shred",
         "weapon": "Dual Berettas"
     },
-    "Dual Berettas | Ventilators": {
-        "name": "Dual Berettas | Ventilators",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dualberettas_ventilators_light_large.45cb1ffd25de1ed5b90ba104b1f8e0a8eb2eb255.png",
-        "skinurl": "https://csgostash.com/skin/738/Dual-Berettas-Ventilators",
-        "weapon": "Dual Berettas"
-    },
     "Dual Berettas | Cartel": {
         "name": "Dual Berettas | Cartel",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_aq_dualberettas_cartel_light_large.52ed24116db8a7254a366ea9f4f49b3ceff9eed3.png",
         "skinurl": "https://csgostash.com/skin/707/Dual-Berettas-Cartel",
+        "weapon": "Dual Berettas"
+    },
+    "Dual Berettas | Ventilators": {
+        "name": "Dual Berettas | Ventilators",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dualberettas_ventilators_light_large.45cb1ffd25de1ed5b90ba104b1f8e0a8eb2eb255.png",
+        "skinurl": "https://csgostash.com/skin/738/Dual-Berettas-Ventilators",
         "weapon": "Dual Berettas"
     },
     "Dual Berettas | Dualing Dragons": {
@@ -475,19 +475,19 @@
         "skinurl": "https://csgostash.com/skin/428/Dual-Berettas-Briar",
         "weapon": "Dual Berettas"
     },
-    "Dual Berettas | Contractor": {
-        "name": "Dual Berettas | Contractor",
-        "quality": "Consumer Grade Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_pmc_light_large.eb0b65f961c27f233d8846c80301666925712e93.png",
-        "skinurl": "https://csgostash.com/skin/196/Dual-Berettas-Contractor",
-        "weapon": "Dual Berettas"
-    },
     "Dual Berettas | Colony": {
         "name": "Dual Berettas | Colony",
         "quality": "Consumer Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_space_marine_light_large.101c6b29315d37db050a4c7817a4c11517baa167.png",
         "skinurl": "https://csgostash.com/skin/213/Dual-Berettas-Colony",
         "weapon": "Dual Berettas"
+    },
+    "Dual Berettas | Contractor": {
+        "name": "Dual Berettas | Contractor",
+        "quality": "Consumer Grade Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_pmc_light_large.eb0b65f961c27f233d8846c80301666925712e93.png",
+        "skinurl": "https://csgostash.com/skin/196/Dual-Berettas-Contractor",
+        "weapon": "Five SeveN"
     },
     "Five-SeveN | Angry Mob": {
         "name": "Five-SeveN | Angry Mob",
@@ -496,18 +496,18 @@
         "skinurl": "https://csgostash.com/skin/1071/Five-SeveN-Angry-Mob",
         "weapon": "Five SeveN"
     },
-    "Five-SeveN | Hyper Beast": {
-        "name": "Five-SeveN | Hyper Beast",
-        "quality": "Covert Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_hyperbeast_light_large.d2ef18b57b0b821624e42830ee4c47e241ed4476.png",
-        "skinurl": "https://csgostash.com/skin/895/Five-SeveN-Hyper-Beast",
-        "weapon": "Five SeveN"
-    },
     "Five-SeveN | Monkey Business": {
         "name": "Five-SeveN | Monkey Business",
         "quality": "Classified Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_banana_light_large.2d78a6614cb329ada893c8d028eb5c2b485f26f0.png",
         "skinurl": "https://csgostash.com/skin/557/Five-SeveN-Monkey-Business",
+        "weapon": "Five SeveN"
+    },
+    "Five-SeveN | Hyper Beast": {
+        "name": "Five-SeveN | Hyper Beast",
+        "quality": "Covert Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_hyperbeast_light_large.d2ef18b57b0b821624e42830ee4c47e241ed4476.png",
+        "skinurl": "https://csgostash.com/skin/895/Five-SeveN-Hyper-Beast",
         "weapon": "Five SeveN"
     },
     "Five-SeveN | Fowl Play": {
@@ -566,18 +566,18 @@
         "skinurl": "https://csgostash.com/skin/836/Five-SeveN-Capillary",
         "weapon": "Five SeveN"
     },
-    "Five-SeveN | Violent Daimyo": {
-        "name": "Five-SeveN | Violent Daimyo",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_daimyo_light_large.d394398cae1977546887145dcf6a4892d2ed29aa.png",
-        "skinurl": "https://csgostash.com/skin/768/Five-SeveN-Violent-Daimyo",
-        "weapon": "Five SeveN"
-    },
     "Five-SeveN | Scumbria": {
         "name": "Five-SeveN | Scumbria",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aq_five_seven_scumbria_light_large.bc05fc6435b84525a0ab140bc72e032a98dab710.png",
         "skinurl": "https://csgostash.com/skin/804/Five-SeveN-Scumbria",
+        "weapon": "Five SeveN"
+    },
+    "Five-SeveN | Violent Daimyo": {
+        "name": "Five-SeveN | Violent Daimyo",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_daimyo_light_large.d394398cae1977546887145dcf6a4892d2ed29aa.png",
+        "skinurl": "https://csgostash.com/skin/768/Five-SeveN-Violent-Daimyo",
         "weapon": "Five SeveN"
     },
     "Five-SeveN | Urban Hazard": {
@@ -587,18 +587,18 @@
         "skinurl": "https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard",
         "weapon": "Five SeveN"
     },
-    "Five-SeveN | Nightshade": {
-        "name": "Five-SeveN | Nightshade",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_flowers_light_large.4f94edf6ac032c15fedafa6ba1f2425a4ca8bded.png",
-        "skinurl": "https://csgostash.com/skin/249/Five-SeveN-Nightshade",
-        "weapon": "Five SeveN"
-    },
     "Five-SeveN | Kami": {
         "name": "Five-SeveN | Kami",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_kami_light_large.ce4939fe41b30c6143f487879a57e4f5f227e811.png",
         "skinurl": "https://csgostash.com/skin/227/Five-SeveN-Kami",
+        "weapon": "Five SeveN"
+    },
+    "Five-SeveN | Nightshade": {
+        "name": "Five-SeveN | Nightshade",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_flowers_light_large.4f94edf6ac032c15fedafa6ba1f2425a4ca8bded.png",
+        "skinurl": "https://csgostash.com/skin/249/Five-SeveN-Nightshade",
         "weapon": "Five SeveN"
     },
     "Five-SeveN | Nitro": {
@@ -629,18 +629,18 @@
         "skinurl": "https://csgostash.com/skin/142/Five-SeveN-Orange-Peel",
         "weapon": "Five SeveN"
     },
-    "Five-SeveN | Candy Apple": {
-        "name": "Five-SeveN | Candy Apple",
-        "quality": "Industrial Grade Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_red_light_large.29ae7b2264bd2a390ecf51a51293d2c2202fdea9.png",
-        "skinurl": "https://csgostash.com/skin/16/Five-SeveN-Candy-Apple",
-        "weapon": "Five SeveN"
-    },
     "Five-SeveN | Coolant": {
         "name": "Five-SeveN | Coolant",
         "quality": "Consumer Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_ducts_green_light_large.687c4ada7a094872eeb5b48cbff3ebac68a8d7ed.png",
         "skinurl": "https://csgostash.com/skin/1003/Five-SeveN-Coolant",
+        "weapon": "Five SeveN"
+    },
+    "Five-SeveN | Candy Apple": {
+        "name": "Five-SeveN | Candy Apple",
+        "quality": "Industrial Grade Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_red_light_large.29ae7b2264bd2a390ecf51a51293d2c2202fdea9.png",
+        "skinurl": "https://csgostash.com/skin/16/Five-SeveN-Candy-Apple",
         "weapon": "Five SeveN"
     },
     "Five-SeveN | Contractor": {
@@ -678,6 +678,13 @@
         "skinurl": "https://csgostash.com/skin/753/Glock-18-Wasteland-Rebel",
         "weapon": "Glock 18"
     },
+    "Glock-18 | Twilight Galaxy": {
+        "name": "Glock-18 | Twilight Galaxy",
+        "quality": "Classified Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_aqua_flecks_light_large.e7d41ce4dbf0cd29f1eb3daa5ce0bb753abd1903.png",
+        "skinurl": "https://csgostash.com/skin/598/Glock-18-Twilight-Galaxy",
+        "weapon": "Glock 18"
+    },
     "Glock-18 | Water Elemental": {
         "name": "Glock-18 | Water Elemental",
         "quality": "Classified Pistol\n\n",
@@ -690,13 +697,6 @@
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aa_glock_18_urban_moon_fever_light_large.a0227f81e44dba68abbe595d427d62f9f90da99d.png",
         "skinurl": "https://csgostash.com/skin/921/Glock-18-Moonrise",
-        "weapon": "Glock 18"
-    },
-    "Glock-18 | Twilight Galaxy": {
-        "name": "Glock-18 | Twilight Galaxy",
-        "quality": "Classified Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_aqua_flecks_light_large.e7d41ce4dbf0cd29f1eb3daa5ce0bb753abd1903.png",
-        "skinurl": "https://csgostash.com/skin/598/Glock-18-Twilight-Galaxy",
         "weapon": "Glock 18"
     },
     "Glock-18 | Weasel": {
@@ -720,18 +720,18 @@
         "skinurl": "https://csgostash.com/skin/498/Glock-18-Grinder",
         "weapon": "Glock 18"
     },
-    "Glock-18 | Steel Disruption": {
-        "name": "Glock-18 | Steel Disruption",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_ddpatdense_silver_light_large.4d83c0a0b958bb15f694c7047996ece59f4be05a.png",
-        "skinurl": "https://csgostash.com/skin/472/Glock-18-Steel-Disruption",
-        "weapon": "Glock 18"
-    },
     "Glock-18 | Dragon Tattoo": {
         "name": "Glock-18 | Dragon Tattoo",
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_dragon_glock_light_large.e42a72a19a2239c992573b88179897af37c7f849.png",
         "skinurl": "https://csgostash.com/skin/84/Glock-18-Dragon-Tattoo",
+        "weapon": "Glock 18"
+    },
+    "Glock-18 | Steel Disruption": {
+        "name": "Glock-18 | Steel Disruption",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_ddpatdense_silver_light_large.4d83c0a0b958bb15f694c7047996ece59f4be05a.png",
+        "skinurl": "https://csgostash.com/skin/472/Glock-18-Steel-Disruption",
         "weapon": "Glock 18"
     },
     "Glock-18 | Nuclear Garden": {
@@ -804,18 +804,18 @@
         "skinurl": "https://csgostash.com/skin/513/Glock-18-Catacombs",
         "weapon": "Glock 18"
     },
-    "Glock-18 | Blue Fissure": {
-        "name": "Glock-18 | Blue Fissure",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_craquelure_light_large.8e97eb17a01e73c47a8987685d740b344aeb2cb8.png",
-        "skinurl": "https://csgostash.com/skin/255/Glock-18-Blue-Fissure",
-        "weapon": "Glock 18"
-    },
     "Glock-18 | Reactor": {
         "name": "Glock-18 | Reactor",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_nuclear_pattern1_glock_light_large.01e91d2930e04d43215becb90447b2ebec1cb8d9.png",
         "skinurl": "https://csgostash.com/skin/484/Glock-18-Reactor",
+        "weapon": "Glock 18"
+    },
+    "Glock-18 | Blue Fissure": {
+        "name": "Glock-18 | Blue Fissure",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_craquelure_light_large.8e97eb17a01e73c47a8987685d740b344aeb2cb8.png",
+        "skinurl": "https://csgostash.com/skin/255/Glock-18-Blue-Fissure",
         "weapon": "Glock 18"
     },
     "Glock-18 | Candy Apple": {
@@ -888,18 +888,18 @@
         "skinurl": "https://csgostash.com/skin/117/P2000-Ocean-Foam",
         "weapon": "P2000"
     },
-    "P2000 | Woodsman": {
-        "name": "P2000 | Woodsman",
-        "quality": "Restricted Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_hunter_light_large.57f4ea5be4f9bece6a3b71521a370d9afb4abb1f.png",
-        "skinurl": "https://csgostash.com/skin/888/P2000-Woodsman",
-        "weapon": "P2000"
-    },
     "P2000 | Handgun": {
         "name": "P2000 | Handgun",
         "quality": "Restricted Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png",
         "skinurl": "https://csgostash.com/skin/573/P2000-Handgun",
+        "weapon": "P2000"
+    },
+    "P2000 | Woodsman": {
+        "name": "P2000 | Woodsman",
+        "quality": "Restricted Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_hunter_light_large.57f4ea5be4f9bece6a3b71521a370d9afb4abb1f.png",
+        "skinurl": "https://csgostash.com/skin/888/P2000-Woodsman",
         "weapon": "P2000"
     },
     "P2000 | Amber Fade": {
@@ -916,18 +916,18 @@
         "skinurl": "https://csgostash.com/skin/67/P2000-Scorpion",
         "weapon": "P2000"
     },
-    "P2000 | Urban Hazard": {
-        "name": "P2000 | Urban Hazard",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_urban_hazard_light_large.17657c4e9c3379f634c78e4d02ca9e9facbe9edb.png",
-        "skinurl": "https://csgostash.com/skin/917/P2000-Urban-Hazard",
-        "weapon": "P2000"
-    },
     "P2000 | Turf": {
         "name": "P2000 | Turf",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_gs_p2000-sport_light_large.96ad9b76130cea95ec2f1bc61ee428e6a998a398.png",
         "skinurl": "https://csgostash.com/skin/822/P2000-Turf",
+        "weapon": "P2000"
+    },
+    "P2000 | Urban Hazard": {
+        "name": "P2000 | Urban Hazard",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_urban_hazard_light_large.17657c4e9c3379f634c78e4d02ca9e9facbe9edb.png",
+        "skinurl": "https://csgostash.com/skin/917/P2000-Urban-Hazard",
         "weapon": "P2000"
     },
     "P2000 | Oceanic": {
@@ -951,18 +951,18 @@
         "skinurl": "https://csgostash.com/skin/405/P2000-Ivory",
         "weapon": "P2000"
     },
-    "P2000 | Pulse": {
-        "name": "P2000 | Pulse",
-        "quality": "Mil-Spec Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_pulse_light_large.a79fcfcd59202495573abfddc1e7627be62b4e1c.png",
-        "skinurl": "https://csgostash.com/skin/387/P2000-Pulse",
-        "weapon": "P2000"
-    },
     "P2000 | Red FragCam": {
         "name": "P2000 | Red FragCam",
         "quality": "Mil-Spec Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_poly_camo_light_large.e4c6576e012974ba60e6dbc70fe5cd1cacc30011.png",
         "skinurl": "https://csgostash.com/skin/252/P2000-Red-FragCam",
+        "weapon": "P2000"
+    },
+    "P2000 | Pulse": {
+        "name": "P2000 | Pulse",
+        "quality": "Mil-Spec Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_pulse_light_large.a79fcfcd59202495573abfddc1e7627be62b4e1c.png",
+        "skinurl": "https://csgostash.com/skin/387/P2000-Pulse",
         "weapon": "P2000"
     },
     "P2000 | Chainmail": {
@@ -1231,19 +1231,19 @@
         "skinurl": "https://csgostash.com/skin/137/P250-Sand-Dune",
         "weapon": "P250"
     },
-    "P250 | Bone Mask": {
-        "name": "P250 | Bone Mask",
-        "quality": "Consumer Grade Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_tape_light_large.8ece2047279c054325b0d2632559de145cef524a.png",
-        "skinurl": "https://csgostash.com/skin/181/P250-Bone-Mask",
-        "weapon": "P250"
-    },
     "P250 | Boreal Forest": {
         "name": "P250 | Boreal Forest",
         "quality": "Consumer Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_forest_boreal_light_large.d805b3c56f74420ea25e14db86e7cf8181d98134.png",
         "skinurl": "https://csgostash.com/skin/166/P250-Boreal-Forest",
-        "weapon": "P250"
+        "weapon": "R8 Revolver"
+    },
+    "P250 | Bone Mask": {
+        "name": "P250 | Bone Mask",
+        "quality": "Consumer Grade Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_tape_light_large.8ece2047279c054325b0d2632559de145cef524a.png",
+        "skinurl": "https://csgostash.com/skin/181/P250-Bone-Mask",
+        "weapon": "R8 Revolver"
     },
     "R8 Revolver | Fade": {
         "name": "R8 Revolver | Fade",
@@ -1490,18 +1490,18 @@
         "skinurl": "https://csgostash.com/skin/369/Tec-9-Urban-DDPAT",
         "weapon": "Tec 9"
     },
-    "Tec-9 | Groundwater": {
-        "name": "Tec-9 | Groundwater",
-        "quality": "Consumer Grade Pistol\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_so_olive_light_large.6c35f2cb6ef0f893f02d70759c528fe4958adebc.png",
-        "skinurl": "https://csgostash.com/skin/152/Tec-9-Groundwater",
-        "weapon": "Tec 9"
-    },
     "Tec-9 | Army Mesh": {
         "name": "Tec-9 | Army Mesh",
         "quality": "Consumer Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_sp_mesh_army_light_large.b2404b6aa0c7e1584fe2691cfeba70d823aff562.png",
         "skinurl": "https://csgostash.com/skin/204/Tec-9-Army-Mesh",
+        "weapon": "Tec 9"
+    },
+    "Tec-9 | Groundwater": {
+        "name": "Tec-9 | Groundwater",
+        "quality": "Consumer Grade Pistol\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_so_olive_light_large.6c35f2cb6ef0f893f02d70759c528fe4958adebc.png",
+        "skinurl": "https://csgostash.com/skin/152/Tec-9-Groundwater",
         "weapon": "Tec 9"
     },
     "Tec-9 | Tornado": {
@@ -1670,13 +1670,6 @@
         "quality": "Industrial Grade Pistol\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_leaves_light_large.a71c8dc482fea4aaa1c6b5c115e370a7e134ddfd.png",
         "skinurl": "https://csgostash.com/skin/207/USP-S-Forest-Leaves",
-        "weapon": "USP S"
-    },
-    "AK-47 | Asiimov": {
-        "name": "AK-47 | Asiimov",
-        "quality": "Covert Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png",
-        "skinurl": "https://csgostash.com/skin/1052/AK-47-Asiimov",
         "weapon": "AK 47"
     },
     "AK-47 | Neon Rider": {
@@ -1686,11 +1679,11 @@
         "skinurl": "https://csgostash.com/skin/946/AK-47-Neon-Rider",
         "weapon": "AK 47"
     },
-    "AK-47 | The Empress": {
-        "name": "AK-47 | The Empress",
+    "AK-47 | Asiimov": {
+        "name": "AK-47 | Asiimov",
         "quality": "Covert Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_empress_light_large.f81d0b07dca381635c89f74bcdb6b64a6da6e81c.png",
-        "skinurl": "https://csgostash.com/skin/912/AK-47-The-Empress",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png",
+        "skinurl": "https://csgostash.com/skin/1052/AK-47-Asiimov",
         "weapon": "AK 47"
     },
     "AK-47 | Bloodsport": {
@@ -1698,6 +1691,13 @@
         "quality": "Covert Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_bloodsport_light_large.40f076f6b92e08acc37860923533aa9768795b2b.png",
         "skinurl": "https://csgostash.com/skin/848/AK-47-Bloodsport",
+        "weapon": "AK 47"
+    },
+    "AK-47 | The Empress": {
+        "name": "AK-47 | The Empress",
+        "quality": "Covert Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_empress_light_large.f81d0b07dca381635c89f74bcdb6b64a6da6e81c.png",
+        "skinurl": "https://csgostash.com/skin/912/AK-47-The-Empress",
         "weapon": "AK 47"
     },
     "AK-47 | Neon Revolution": {
@@ -1791,18 +1791,18 @@
         "skinurl": "https://csgostash.com/skin/82/AK-47-Case-Hardened",
         "weapon": "AK 47"
     },
-    "AK-47 | Jet Set": {
-        "name": "AK-47 | Jet Set",
-        "quality": "Classified Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_well_traveled_ak47_light_large.708a53ac473d7cd02037876a82b6b4c004bf9a31.png",
-        "skinurl": "https://csgostash.com/skin/420/AK-47-Jet-Set",
-        "weapon": "AK 47"
-    },
     "AK-47 | Hydroponic": {
         "name": "AK-47 | Hydroponic",
         "quality": "Classified Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_am_bamboo_jungle_light_large.98cd023e9d2207ad765b600b281352cbc5009051.png",
         "skinurl": "https://csgostash.com/skin/628/AK-47-Hydroponic",
+        "weapon": "AK 47"
+    },
+    "AK-47 | Jet Set": {
+        "name": "AK-47 | Jet Set",
+        "quality": "Classified Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_well_traveled_ak47_light_large.708a53ac473d7cd02037876a82b6b4c004bf9a31.png",
+        "skinurl": "https://csgostash.com/skin/420/AK-47-Jet-Set",
         "weapon": "AK 47"
     },
     "AK-47 | Orbit Mk01": {
@@ -1882,18 +1882,18 @@
         "skinurl": "https://csgostash.com/skin/61/AK-47-Predator",
         "weapon": "AK 47"
     },
-    "AUG | Chameleon": {
-        "name": "AUG | Chameleon",
-        "quality": "Covert Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_chameleonaire_light_large.ad1d2f62d1481931d8e23e0ab0fbd4e7a61135f7.png",
-        "skinurl": "https://csgostash.com/skin/275/AUG-Chameleon",
-        "weapon": "AUG"
-    },
     "AUG | Akihabara Accept": {
         "name": "AUG | Akihabara Accept",
         "quality": "Covert Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_anime_aug_light_large.f049075c645871ee67b0b47253f59c26143efc49.png",
         "skinurl": "https://csgostash.com/skin/629/AUG-Akihabara-Accept",
+        "weapon": "AUG"
+    },
+    "AUG | Chameleon": {
+        "name": "AUG | Chameleon",
+        "quality": "Covert Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_chameleonaire_light_large.ad1d2f62d1481931d8e23e0ab0fbd4e7a61135f7.png",
+        "skinurl": "https://csgostash.com/skin/275/AUG-Chameleon",
         "weapon": "AUG"
     },
     "AUG | Momentum": {
@@ -1987,18 +1987,18 @@
         "skinurl": "https://csgostash.com/skin/95/AUG-Anodized-Navy",
         "weapon": "AUG"
     },
-    "AUG | Hot Rod": {
-        "name": "AUG | Hot Rod",
-        "quality": "Mil-Spec Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_an_red_light_large.9adb894f02aff778fff9188a24eea1f0c8b66685.png",
-        "skinurl": "https://csgostash.com/skin/8/AUG-Hot-Rod",
-        "weapon": "AUG"
-    },
     "AUG | Copperhead": {
         "name": "AUG | Copperhead",
         "quality": "Mil-Spec Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_copperhead_light_large.166fd555b0075feb698783999d906c4529d2d631.png",
         "skinurl": "https://csgostash.com/skin/65/AUG-Copperhead",
+        "weapon": "AUG"
+    },
+    "AUG | Hot Rod": {
+        "name": "AUG | Hot Rod",
+        "quality": "Mil-Spec Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_an_red_light_large.9adb894f02aff778fff9188a24eea1f0c8b66685.png",
+        "skinurl": "https://csgostash.com/skin/8/AUG-Hot-Rod",
         "weapon": "AUG"
     },
     "AUG | Radiation Hazard": {
@@ -2048,7 +2048,7 @@
         "quality": "Consumer Grade Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_so_space_marine_light_large.ee525f5aaf19c6d97af3b0378d3d3cac26476d80.png",
         "skinurl": "https://csgostash.com/skin/184/AUG-Colony",
-        "weapon": "AUG"
+        "weapon": "AWP"
     },
     "AWP | Neo-Noir": {
         "name": "AWP | Neo-Noir",
@@ -2134,6 +2134,13 @@
         "skinurl": "https://csgostash.com/skin/467/AWP-Corticera",
         "weapon": "AWP"
     },
+    "AWP | Electric Hive": {
+        "name": "AWP | Electric Hive",
+        "quality": "Classified Sniper Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_hive_light_large.2189958e2afa2c69cfcdd807124c279a0e645625.png",
+        "skinurl": "https://csgostash.com/skin/243/AWP-Electric-Hive",
+        "weapon": "AWP"
+    },
     "AWP | Redline": {
         "name": "AWP | Redline",
         "quality": "Classified Sniper Rifle\n\n",
@@ -2148,11 +2155,11 @@
         "skinurl": "https://csgostash.com/skin/110/AWP-Graphite",
         "weapon": "AWP"
     },
-    "AWP | Electric Hive": {
-        "name": "AWP | Electric Hive",
+    "AWP | BOOM": {
+        "name": "AWP | BOOM",
         "quality": "Classified Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_hive_light_large.2189958e2afa2c69cfcdd807124c279a0e645625.png",
-        "skinurl": "https://csgostash.com/skin/243/AWP-Electric-Hive",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_blam_simple_light_large.ed114947481e0366b2cde092a8ddac4d7250775b.png",
+        "skinurl": "https://csgostash.com/skin/71/AWP-BOOM",
         "weapon": "AWP"
     },
     "AWP | Atheris": {
@@ -2162,13 +2169,6 @@
         "skinurl": "https://csgostash.com/skin/1063/AWP-Atheris",
         "weapon": "AWP"
     },
-    "AWP | BOOM": {
-        "name": "AWP | BOOM",
-        "quality": "Classified Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_blam_simple_light_large.ed114947481e0366b2cde092a8ddac4d7250775b.png",
-        "skinurl": "https://csgostash.com/skin/71/AWP-BOOM",
-        "weapon": "AWP"
-    },
     "AWP | PAW": {
         "name": "AWP | PAW",
         "quality": "Restricted Sniper Rifle\n\n",
@@ -2176,18 +2176,18 @@
         "skinurl": "https://csgostash.com/skin/941/AWP-PAW",
         "weapon": "AWP"
     },
-    "AWP | Phobos": {
-        "name": "AWP | Phobos",
-        "quality": "Restricted Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_phobos_light_large.fca961cc99c704f09c44e6e82378434ef0e22087.png",
-        "skinurl": "https://csgostash.com/skin/760/AWP-Phobos",
-        "weapon": "AWP"
-    },
     "AWP | Worm God": {
         "name": "AWP | Worm God",
         "quality": "Restricted Sniper Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aq_awp_twine_light_large.f976c41b8f978d2b8d13734f14f6586982d859f1.png",
         "skinurl": "https://csgostash.com/skin/561/AWP-Worm-God",
+        "weapon": "AWP"
+    },
+    "AWP | Phobos": {
+        "name": "AWP | Phobos",
+        "quality": "Restricted Sniper Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_phobos_light_large.fca961cc99c704f09c44e6e82378434ef0e22087.png",
+        "skinurl": "https://csgostash.com/skin/760/AWP-Phobos",
         "weapon": "AWP"
     },
     "AWP | Pink DDPAT": {
@@ -2260,18 +2260,18 @@
         "skinurl": "https://csgostash.com/skin/555/FAMAS-Djinn",
         "weapon": "FAMAS"
     },
-    "FAMAS | Valence": {
-        "name": "FAMAS | Valence",
-        "quality": "Restricted Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_contour_light_large.65d515ab34a6f50c8a5296b562a81da42663b819.png",
-        "skinurl": "https://csgostash.com/skin/712/FAMAS-Valence",
-        "weapon": "FAMAS"
-    },
     "FAMAS | Afterimage": {
         "name": "FAMAS | Afterimage",
         "quality": "Classified Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_broken_path_famas_light_large.5d45539735d838ffefd26467a8c767b71807c785.png",
         "skinurl": "https://csgostash.com/skin/248/FAMAS-Afterimage",
+        "weapon": "FAMAS"
+    },
+    "FAMAS | Valence": {
+        "name": "FAMAS | Valence",
+        "quality": "Restricted Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_contour_light_large.65d515ab34a6f50c8a5296b562a81da42663b819.png",
+        "skinurl": "https://csgostash.com/skin/712/FAMAS-Valence",
         "weapon": "FAMAS"
     },
     "FAMAS | Neural Net": {
@@ -2281,18 +2281,18 @@
         "skinurl": "https://csgostash.com/skin/577/FAMAS-Neural-Net",
         "weapon": "FAMAS"
     },
-    "FAMAS | Sergeant": {
-        "name": "FAMAS | Sergeant",
-        "quality": "Restricted Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_an_famas_sgt_light_large.5a9241d41a3c35a3fbb20aebcd22253a6a85f72f.png",
-        "skinurl": "https://csgostash.com/skin/269/FAMAS-Sergeant",
-        "weapon": "FAMAS"
-    },
     "FAMAS | Pulse": {
         "name": "FAMAS | Pulse",
         "quality": "Restricted Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_pulse_light_large.fad5dfcd7b0ccfe655c7c3903d091140904959ec.png",
         "skinurl": "https://csgostash.com/skin/230/FAMAS-Pulse",
+        "weapon": "FAMAS"
+    },
+    "FAMAS | Sergeant": {
+        "name": "FAMAS | Sergeant",
+        "quality": "Restricted Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_an_famas_sgt_light_large.5a9241d41a3c35a3fbb20aebcd22253a6a85f72f.png",
+        "skinurl": "https://csgostash.com/skin/269/FAMAS-Sergeant",
         "weapon": "FAMAS"
     },
     "FAMAS | Styx": {
@@ -2370,7 +2370,7 @@
         "quality": "Consumer Grade Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_spray_light_large.fe886d820746c0f4333c0e0ea6d308473e241c4b.png",
         "skinurl": "https://csgostash.com/skin/17/FAMAS-Contrast-Spray",
-        "weapon": "FAMAS"
+        "weapon": "G3SG1"
     },
     "G3SG1 | The Executioner": {
         "name": "G3SG1 | The Executioner",
@@ -2435,13 +2435,6 @@
         "skinurl": "https://csgostash.com/skin/739/G3SG1-Orange-Crash",
         "weapon": "G3SG1"
     },
-    "G3SG1 | Murky": {
-        "name": "G3SG1 | Murky",
-        "quality": "Mil-Spec Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_g3sg1_murky_light_large.bc4e8d0e70d2952576d5c9653da71f21bc02b810.png",
-        "skinurl": "https://csgostash.com/skin/497/G3SG1-Murky",
-        "weapon": "G3SG1"
-    },
     "G3SG1 | Azure Zebra": {
         "name": "G3SG1 | Azure Zebra",
         "quality": "Mil-Spec Sniper Rifle\n\n",
@@ -2449,11 +2442,11 @@
         "skinurl": "https://csgostash.com/skin/245/G3SG1-Azure-Zebra",
         "weapon": "G3SG1"
     },
-    "G3SG1 | Demeter": {
-        "name": "G3SG1 | Demeter",
+    "G3SG1 | Murky": {
+        "name": "G3SG1 | Murky",
         "quality": "Mil-Spec Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_bluepolygon_bravo_light_large.6638623a4979512bb048fa22f9ec06a5c1172c7e.png",
-        "skinurl": "https://csgostash.com/skin/111/G3SG1-Demeter",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_g3sg1_murky_light_large.bc4e8d0e70d2952576d5c9653da71f21bc02b810.png",
+        "skinurl": "https://csgostash.com/skin/497/G3SG1-Murky",
         "weapon": "G3SG1"
     },
     "G3SG1 | Green Apple": {
@@ -2463,6 +2456,13 @@
         "skinurl": "https://csgostash.com/skin/360/G3SG1-Green-Apple",
         "weapon": "G3SG1"
     },
+    "G3SG1 | Demeter": {
+        "name": "G3SG1 | Demeter",
+        "quality": "Mil-Spec Sniper Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_bluepolygon_bravo_light_large.6638623a4979512bb048fa22f9ec06a5c1172c7e.png",
+        "skinurl": "https://csgostash.com/skin/111/G3SG1-Demeter",
+        "weapon": "G3SG1"
+    },
     "G3SG1 | VariCamo": {
         "name": "G3SG1 | VariCamo",
         "quality": "Industrial Grade Sniper Rifle\n\n",
@@ -2470,18 +2470,18 @@
         "skinurl": "https://csgostash.com/skin/198/G3SG1-VariCamo",
         "weapon": "G3SG1"
     },
-    "G3SG1 | Arctic Camo": {
-        "name": "G3SG1 | Arctic Camo",
-        "quality": "Industrial Grade Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_arctic_light_large.0eb54eebce1517513ecdb3788459c09358971f77.png",
-        "skinurl": "https://csgostash.com/skin/21/G3SG1-Arctic-Camo",
-        "weapon": "G3SG1"
-    },
     "G3SG1 | Orange Kimono": {
         "name": "G3SG1 | Orange Kimono",
         "quality": "Consumer Grade Sniper Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_kimono_diamonds_orange_light_large.bdab5d4f92f5733ed056bbe276761c377b5c3401.png",
         "skinurl": "https://csgostash.com/skin/617/G3SG1-Orange-Kimono",
+        "weapon": "G3SG1"
+    },
+    "G3SG1 | Arctic Camo": {
+        "name": "G3SG1 | Arctic Camo",
+        "quality": "Industrial Grade Sniper Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_arctic_light_large.0eb54eebce1517513ecdb3788459c09358971f77.png",
+        "skinurl": "https://csgostash.com/skin/21/G3SG1-Arctic-Camo",
         "weapon": "G3SG1"
     },
     "G3SG1 | Contractor": {
@@ -2685,7 +2685,7 @@
         "quality": "Consumer Grade Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_mesh_slashes_light_large.f3c1ef94e52aa6cfe3c3ba2890e0d5ac0764900a.png",
         "skinurl": "https://csgostash.com/skin/191/Galil-AR-Hunting-Blind",
-        "weapon": "Galil AR"
+        "weapon": "M4A1 S"
     },
     "M4A1-S | Mecha Industries": {
         "name": "M4A1-S | Mecha Industries",
@@ -3163,13 +3163,6 @@
         "skinurl": "https://csgostash.com/skin/426/SCAR-20-Storm",
         "weapon": "SCAR 20"
     },
-    "SCAR-20 | Contractor": {
-        "name": "SCAR-20 | Contractor",
-        "quality": "Consumer Grade Sniper Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_so_pmc_light_large.c3e05baecc15229a989ddd093964e9c4e9fbe68a.png",
-        "skinurl": "https://csgostash.com/skin/197/SCAR-20-Contractor",
-        "weapon": "SCAR 20"
-    },
     "SCAR-20 | Sand Mesh": {
         "name": "SCAR-20 | Sand Mesh",
         "quality": "Consumer Grade Sniper Rifle\n\n",
@@ -3177,11 +3170,11 @@
         "skinurl": "https://csgostash.com/skin/141/SCAR-20-Sand-Mesh",
         "weapon": "SCAR 20"
     },
-    "SG 553 | Cyrex": {
-        "name": "SG 553 | Cyrex",
-        "quality": "Classified Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png",
-        "skinurl": "https://csgostash.com/skin/570/SG-553-Cyrex",
+    "SCAR-20 | Contractor": {
+        "name": "SCAR-20 | Contractor",
+        "quality": "Consumer Grade Sniper Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_so_pmc_light_large.c3e05baecc15229a989ddd093964e9c4e9fbe68a.png",
+        "skinurl": "https://csgostash.com/skin/197/SCAR-20-Contractor",
         "weapon": "SG 553"
     },
     "SG 553 | Integrale": {
@@ -3189,6 +3182,13 @@
         "quality": "Classified Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_rally_light_large.904b6f70dc7c8fe107d2cdb5acbdd0be6f686a3f.png",
         "skinurl": "https://csgostash.com/skin/1035/SG-553-Integrale",
+        "weapon": "SG 553"
+    },
+    "SG 553 | Cyrex": {
+        "name": "SG 553 | Cyrex",
+        "quality": "Classified Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png",
+        "skinurl": "https://csgostash.com/skin/570/SG-553-Cyrex",
         "weapon": "SG 553"
     },
     "SG 553 | Phantom": {
@@ -3233,18 +3233,18 @@
         "skinurl": "https://csgostash.com/skin/1042/SG-553-Danger-Close",
         "weapon": "SG 553"
     },
-    "SG 553 | Aloha": {
-        "name": "SG 553 | Aloha",
-        "quality": "Mil-Spec Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_sg533_aloha_light_large.03aa863680ab2223924ae9cbe8b7662a84fb162c.png",
-        "skinurl": "https://csgostash.com/skin/919/SG-553-Aloha",
-        "weapon": "SG 553"
-    },
     "SG 553 | Aerial": {
         "name": "SG 553 | Aerial",
         "quality": "Mil-Spec Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_aerial_light_large.a123874095a96a92aaacd0f64a4fef54fa455e82.png",
         "skinurl": "https://csgostash.com/skin/763/SG-553-Aerial",
+        "weapon": "SG 553"
+    },
+    "SG 553 | Aloha": {
+        "name": "SG 553 | Aloha",
+        "quality": "Mil-Spec Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_sg533_aloha_light_large.03aa863680ab2223924ae9cbe8b7662a84fb162c.png",
+        "skinurl": "https://csgostash.com/skin/919/SG-553-Aloha",
         "weapon": "SG 553"
     },
     "SG 553 | Atlas": {
@@ -3303,18 +3303,18 @@
         "skinurl": "https://csgostash.com/skin/190/SG-553-Gator-Mesh",
         "weapon": "SG 553"
     },
-    "SG 553 | Army Sheen": {
-        "name": "SG 553 | Army Sheen",
-        "quality": "Consumer Grade Rifle\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_am_army_shine_light_large.a07a97d5fba73aeecfc5cc9364e0d43d47892373.png",
-        "skinurl": "https://csgostash.com/skin/368/SG-553-Army-Sheen",
-        "weapon": "SG 553"
-    },
     "SG 553 | Waves Perforated": {
         "name": "SG 553 | Waves Perforated",
         "quality": "Consumer Grade Rifle\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_tape_dots_waves_light_large.6225b7ae003cefaab7deca7ea517576991055bbd.png",
         "skinurl": "https://csgostash.com/skin/176/SG-553-Waves-Perforated",
+        "weapon": "SG 553"
+    },
+    "SG 553 | Army Sheen": {
+        "name": "SG 553 | Army Sheen",
+        "quality": "Consumer Grade Rifle\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_am_army_shine_light_large.a07a97d5fba73aeecfc5cc9364e0d43d47892373.png",
+        "skinurl": "https://csgostash.com/skin/368/SG-553-Army-Sheen",
         "weapon": "SG 553"
     },
     "SG 553 | Tornado": {
@@ -3443,18 +3443,18 @@
         "skinurl": "https://csgostash.com/skin/56/SSG-08-Lichen-Dashed",
         "weapon": "SSG 08"
     },
-    "MAC-10 | Pipe Down": {
-        "name": "MAC-10 | Pipe Down",
-        "quality": "Restricted SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_exo_pipes_light_large.e8327716d271e1e5f14f5af06547d5ac9714da49.png",
-        "skinurl": "https://csgostash.com/skin/1046/MAC-10-Pipe-Down",
-        "weapon": "MAC 10"
-    },
     "MAC-10 | Neon Rider": {
         "name": "MAC-10 | Neon Rider",
         "quality": "Covert SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.e19de002e7c2dfe0a24bdbc56fff890ec45a0d6b.png",
         "skinurl": "https://csgostash.com/skin/553/MAC-10-Neon-Rider",
+        "weapon": "MAC 10"
+    },
+    "MAC-10 | Pipe Down": {
+        "name": "MAC-10 | Pipe Down",
+        "quality": "Restricted SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_exo_pipes_light_large.e8327716d271e1e5f14f5af06547d5ac9714da49.png",
+        "skinurl": "https://csgostash.com/skin/1046/MAC-10-Pipe-Down",
         "weapon": "MAC 10"
     },
     "MAC-10 | Malachite": {
@@ -3590,13 +3590,6 @@
         "skinurl": "https://csgostash.com/skin/363/MAC-10-Silver",
         "weapon": "MAC 10"
     },
-    "MAC-10 | Candy Apple": {
-        "name": "MAC-10 | Candy Apple",
-        "quality": "Industrial Grade SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_red_light_large.7b052b069a82705991d28fcf2712d66bed36a0a8.png",
-        "skinurl": "https://csgostash.com/skin/224/MAC-10-Candy-Apple",
-        "weapon": "MAC 10"
-    },
     "MAC-10 | Palm": {
         "name": "MAC-10 | Palm",
         "quality": "Industrial Grade SMG\n\n",
@@ -3609,6 +3602,13 @@
         "quality": "Consumer Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_indigo_and_grey_light_large.8360d4d53a825cf526d4cb4bddde62ed9f705c94.png",
         "skinurl": "https://csgostash.com/skin/425/MAC-10-Indigo",
+        "weapon": "MAC 10"
+    },
+    "MAC-10 | Candy Apple": {
+        "name": "MAC-10 | Candy Apple",
+        "quality": "Industrial Grade SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_red_light_large.7b052b069a82705991d28fcf2712d66bed36a0a8.png",
+        "skinurl": "https://csgostash.com/skin/224/MAC-10-Candy-Apple",
         "weapon": "MAC 10"
     },
     "MAC-10 | Tornado": {
@@ -3716,18 +3716,18 @@
         "skinurl": "https://csgostash.com/skin/1060/MP7-Mischief",
         "weapon": "MP7"
     },
-    "MP7 | Cirrus": {
-        "name": "MP7 | Cirrus",
-        "quality": "Mil-Spec SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_gs_final_pooldeadv2_light_large.30ea2c8c934b49fa0a5e2b8c50ec880c10e2f295.png",
-        "skinurl": "https://csgostash.com/skin/818/MP7-Cirrus",
-        "weapon": "MP7"
-    },
     "MP7 | Akoben": {
         "name": "MP7 | Akoben",
         "quality": "Mil-Spec SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_mp7_tribal_yellow_light_large.1c05d27487feb5d82e8165721942ea3a67e6ba33.png",
         "skinurl": "https://csgostash.com/skin/837/MP7-Akoben",
+        "weapon": "MP7"
+    },
+    "MP7 | Cirrus": {
+        "name": "MP7 | Cirrus",
+        "quality": "Mil-Spec SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_gs_final_pooldeadv2_light_large.30ea2c8c934b49fa0a5e2b8c50ec880c10e2f295.png",
+        "skinurl": "https://csgostash.com/skin/818/MP7-Cirrus",
         "weapon": "MP7"
     },
     "MP7 | Armor Core": {
@@ -3807,18 +3807,18 @@
         "skinurl": "https://csgostash.com/skin/413/MP7-Olive-Plaid",
         "weapon": "MP7"
     },
-    "MP7 | Forest DDPAT": {
-        "name": "MP7 | Forest DDPAT",
-        "quality": "Consumer Grade SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_ddpat_light_large.0207fb5fe0a1e21cdda28e005f7960f2dc4728b9.png",
-        "skinurl": "https://csgostash.com/skin/364/MP7-Forest-DDPAT",
-        "weapon": "MP7"
-    },
     "MP7 | Army Recon": {
         "name": "MP7 | Army Recon",
         "quality": "Consumer Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_spray_army_light_large.e879b8808f8c967e4f08fde194d6d58f64dfdb2d.png",
         "skinurl": "https://csgostash.com/skin/206/MP7-Army-Recon",
+        "weapon": "MP7"
+    },
+    "MP7 | Forest DDPAT": {
+        "name": "MP7 | Forest DDPAT",
+        "quality": "Consumer Grade SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_ddpat_light_large.0207fb5fe0a1e21cdda28e005f7960f2dc4728b9.png",
+        "skinurl": "https://csgostash.com/skin/364/MP7-Forest-DDPAT",
         "weapon": "MP7"
     },
     "MP7 | Groundwater": {
@@ -3891,18 +3891,18 @@
         "skinurl": "https://csgostash.com/skin/916/MP9-Black-Sand",
         "weapon": "MP9"
     },
-    "MP9 | Bioleak": {
-        "name": "MP9 | Bioleak",
-        "quality": "Mil-Spec SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_bioleak_light_large.d9b0d0e9fea2104871e0510bd704bfa03cdd6056.png",
-        "skinurl": "https://csgostash.com/skin/743/MP9-Bioleak",
-        "weapon": "MP9"
-    },
     "MP9 | Sand Scale": {
         "name": "MP9 | Sand Scale",
         "quality": "Mil-Spec SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_aa_hide-mp9_light_large.77be0c0ed8276383c6a2d42842df3108bbdd173b.png",
         "skinurl": "https://csgostash.com/skin/820/MP9-Sand-Scale",
+        "weapon": "MP9"
+    },
+    "MP9 | Bioleak": {
+        "name": "MP9 | Bioleak",
+        "quality": "Mil-Spec SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_bioleak_light_large.d9b0d0e9fea2104871e0510bd704bfa03cdd6056.png",
+        "skinurl": "https://csgostash.com/skin/743/MP9-Bioleak",
         "weapon": "MP9"
     },
     "MP9 | Deadly Poison": {
@@ -4038,18 +4038,18 @@
         "skinurl": "https://csgostash.com/skin/914/PP-Bizon-Night-Riot",
         "weapon": "PP Bizon"
     },
-    "PP-Bizon | Jungle Slipstream": {
-        "name": "PP-Bizon | Jungle Slipstream",
-        "quality": "Mil-Spec SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light_large.1aa076ede6a2511bf676ffb1c5a3eafca71c58a6.png",
-        "skinurl": "https://csgostash.com/skin/833/PP-Bizon-Jungle-Slipstream",
-        "weapon": "PP Bizon"
-    },
     "PP-Bizon | Harvester": {
         "name": "PP-Bizon | Harvester",
         "quality": "Mil-Spec SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_gs_pp_bizon_harvester_light_large.654d26d43d7e4583a0ede5e0ea6bb697858698dc.png",
         "skinurl": "https://csgostash.com/skin/764/PP-Bizon-Harvester",
+        "weapon": "PP Bizon"
+    },
+    "PP-Bizon | Jungle Slipstream": {
+        "name": "PP-Bizon | Jungle Slipstream",
+        "quality": "Mil-Spec SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light_large.1aa076ede6a2511bf676ffb1c5a3eafca71c58a6.png",
+        "skinurl": "https://csgostash.com/skin/833/PP-Bizon-Jungle-Slipstream",
         "weapon": "PP Bizon"
     },
     "PP-Bizon | Photic Zone": {
@@ -4094,18 +4094,18 @@
         "skinurl": "https://csgostash.com/skin/35/PP-Bizon-Modern-Hunter",
         "weapon": "PP Bizon"
     },
-    "PP-Bizon | Candy Apple": {
-        "name": "PP-Bizon | Candy Apple",
-        "quality": "Industrial Grade SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_red_light_large.0ee9cada135b87096b447521a05c0a2d437bf9ff.png",
-        "skinurl": "https://csgostash.com/skin/1023/PP-Bizon-Candy-Apple",
-        "weapon": "PP Bizon"
-    },
     "PP-Bizon | Chemical Green": {
         "name": "PP-Bizon | Chemical Green",
         "quality": "Industrial Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_grey_nuclear_green_bizon_light_large.072e25b1fa34f50da3850310424b8b96983cf684.png",
         "skinurl": "https://csgostash.com/skin/489/PP-Bizon-Chemical-Green",
+        "weapon": "PP Bizon"
+    },
+    "PP-Bizon | Candy Apple": {
+        "name": "PP-Bizon | Candy Apple",
+        "quality": "Industrial Grade SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_red_light_large.0ee9cada135b87096b447521a05c0a2d437bf9ff.png",
+        "skinurl": "https://csgostash.com/skin/1023/PP-Bizon-Candy-Apple",
         "weapon": "PP Bizon"
     },
     "PP-Bizon | Night Ops": {
@@ -4136,18 +4136,18 @@
         "skinurl": "https://csgostash.com/skin/614/PP-Bizon-Bamboo-Print",
         "weapon": "PP Bizon"
     },
-    "PP-Bizon | Urban Dashed": {
-        "name": "PP-Bizon | Urban Dashed",
-        "quality": "Consumer Grade SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.141f3b1f24bc6c964a78ca58b38c01ad773fbc12.png",
-        "skinurl": "https://csgostash.com/skin/223/PP-Bizon-Urban-Dashed",
-        "weapon": "PP Bizon"
-    },
     "PP-Bizon | Sand Dashed": {
         "name": "PP-Bizon | Sand Dashed",
         "quality": "Consumer Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_sand_light_large.dcf913a3a4fcd421012482e8c1cb55d05d9828f9.png",
         "skinurl": "https://csgostash.com/skin/164/PP-Bizon-Sand-Dashed",
+        "weapon": "PP Bizon"
+    },
+    "PP-Bizon | Urban Dashed": {
+        "name": "PP-Bizon | Urban Dashed",
+        "quality": "Consumer Grade SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.141f3b1f24bc6c964a78ca58b38c01ad773fbc12.png",
+        "skinurl": "https://csgostash.com/skin/223/PP-Bizon-Urban-Dashed",
         "weapon": "PP Bizon"
     },
     "PP-Bizon | Forest Leaves": {
@@ -4171,18 +4171,18 @@
         "skinurl": "https://csgostash.com/skin/406/P90-Asiimov",
         "weapon": "P90"
     },
-    "P90 | Shallow Grave": {
-        "name": "P90 | Shallow Grave",
-        "quality": "Classified SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_shallow_grave_light_large.948019f5ffb76bcc24cfede19c992ffb34e3ecaf.png",
-        "skinurl": "https://csgostash.com/skin/829/P90-Shallow-Grave",
-        "weapon": "P90"
-    },
     "P90 | Death by Kitty": {
         "name": "P90 | Death by Kitty",
         "quality": "Covert SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_catskulls_p90_light_large.0ff2c5c53a691e28de02cd7b40e395d53d8c6826.png",
         "skinurl": "https://csgostash.com/skin/70/P90-Death-by-Kitty",
+        "weapon": "P90"
+    },
+    "P90 | Shallow Grave": {
+        "name": "P90 | Shallow Grave",
+        "quality": "Classified SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_shallow_grave_light_large.948019f5ffb76bcc24cfede19c992ffb34e3ecaf.png",
+        "skinurl": "https://csgostash.com/skin/829/P90-Shallow-Grave",
         "weapon": "P90"
     },
     "P90 | Shapewood": {
@@ -4325,18 +4325,18 @@
         "skinurl": "https://csgostash.com/skin/27/P90-Fallout-Warning",
         "weapon": "P90"
     },
-    "P90 | Scorched": {
-        "name": "P90 | Scorched",
-        "quality": "Consumer Grade SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_dapple_light_large.6a715fc8b63ae569c2facb1607b5243c21a7280a.png",
-        "skinurl": "https://csgostash.com/skin/189/P90-Scorched",
-        "weapon": "P90"
-    },
     "P90 | Storm": {
         "name": "P90 | Storm",
         "quality": "Consumer Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_so_stormfront_light_large.60d73691845ad5ad0e5d8a15b488807d9c25a57f.png",
         "skinurl": "https://csgostash.com/skin/423/P90-Storm",
+        "weapon": "P90"
+    },
+    "P90 | Scorched": {
+        "name": "P90 | Scorched",
+        "quality": "Consumer Grade SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_dapple_light_large.6a715fc8b63ae569c2facb1607b5243c21a7280a.png",
+        "skinurl": "https://csgostash.com/skin/189/P90-Scorched",
         "weapon": "P90"
     },
     "P90 | Sand Spray": {
@@ -4374,18 +4374,18 @@
         "skinurl": "https://csgostash.com/skin/925/UMP-45-Arctic-Wolf",
         "weapon": "UMP 45"
     },
-    "UMP-45 | Scaffold": {
-        "name": "UMP-45 | Scaffold",
-        "quality": "Restricted SMG\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_abyss_light_large.55910298a6be9b071156ef176a31d26007d92d0f.png",
-        "skinurl": "https://csgostash.com/skin/843/UMP-45-Scaffold",
-        "weapon": "UMP 45"
-    },
     "UMP-45 | Exposure": {
         "name": "UMP-45 | Exposure",
         "quality": "Restricted SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_x-ray_machine_light_large.a4563e015fd33d1874cc220458db2754a15dd08a.png",
         "skinurl": "https://csgostash.com/skin/907/UMP-45-Exposure",
+        "weapon": "UMP 45"
+    },
+    "UMP-45 | Scaffold": {
+        "name": "UMP-45 | Scaffold",
+        "quality": "Restricted SMG\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_abyss_light_large.55910298a6be9b071156ef176a31d26007d92d0f.png",
+        "skinurl": "https://csgostash.com/skin/843/UMP-45-Scaffold",
         "weapon": "UMP 45"
     },
     "UMP-45 | Grand Prix": {
@@ -4519,7 +4519,7 @@
         "quality": "Consumer Grade SMG\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_so_caramel_light_large.4883dbae989e9c61805aa53ca5a02983f74657b9.png",
         "skinurl": "https://csgostash.com/skin/7/UMP-45-Caramel",
-        "weapon": "UMP 45"
+        "weapon": "MAG 7"
     },
     "MAG-7 | SWAG-7": {
         "name": "MAG-7 | SWAG-7",
@@ -4570,18 +4570,18 @@
         "skinurl": "https://csgostash.com/skin/884/MAG-7-Hard-Water",
         "weapon": "MAG 7"
     },
-    "MAG-7 | Cobalt Core": {
-        "name": "MAG-7 | Cobalt Core",
-        "quality": "Mil-Spec Shotgun\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_myrcene_light_large.7cd0ed89db7accc44d3289f9f1529e0a75f4643e.png",
-        "skinurl": "https://csgostash.com/skin/647/MAG-7-Cobalt-Core",
-        "weapon": "MAG 7"
-    },
     "MAG-7 | Sonar": {
         "name": "MAG-7 | Sonar",
         "quality": "Mil-Spec Shotgun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_mag7_malform_light_large.8a87c99550a4f609e7357bb4f63facf86279afca.png",
         "skinurl": "https://csgostash.com/skin/821/MAG-7-Sonar",
+        "weapon": "MAG 7"
+    },
+    "MAG-7 | Cobalt Core": {
+        "name": "MAG-7 | Cobalt Core",
+        "quality": "Mil-Spec Shotgun\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_myrcene_light_large.7cd0ed89db7accc44d3289f9f1529e0a75f4643e.png",
+        "skinurl": "https://csgostash.com/skin/647/MAG-7-Cobalt-Core",
         "weapon": "MAG 7"
     },
     "MAG-7 | Firestarter": {
@@ -4640,6 +4640,13 @@
         "skinurl": "https://csgostash.com/skin/1022/MAG-7-Rust-Coat",
         "weapon": "MAG 7"
     },
+    "MAG-7 | Seabird": {
+        "name": "MAG-7 | Seabird",
+        "quality": "Consumer Grade Shotgun\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_aqua_light_large.fee69dfe94d0158d2e7d8d049accdb967b8a924a.png",
+        "skinurl": "https://csgostash.com/skin/587/MAG-7-Seabird",
+        "weapon": "MAG 7"
+    },
     "MAG-7 | Storm": {
         "name": "MAG-7 | Storm",
         "quality": "Consumer Grade Shotgun\n\n",
@@ -4659,7 +4666,7 @@
         "quality": "Consumer Grade Shotgun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_sand_light_large.9dfc46fd60aa92768b02d39371d5aac04b892ff8.png",
         "skinurl": "https://csgostash.com/skin/48/MAG-7-Sand-Dune",
-        "weapon": "MAG 7"
+        "weapon": "Nova"
     },
     "Nova | Hyper Beast": {
         "name": "Nova | Hyper Beast",
@@ -4673,13 +4680,6 @@
         "quality": "Classified Shotgun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_spring_nova_light_large.0be95a01dd54b579186464d0533c5195ffb14a8f.png",
         "skinurl": "https://csgostash.com/skin/469/Nova-Bloomstick",
-        "weapon": "Nova"
-    },
-    "MAG-7 | Seabird": {
-        "name": "MAG-7 | Seabird",
-        "quality": "Consumer Grade Shotgun\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_aqua_light_large.fee69dfe94d0158d2e7d8d049accdb967b8a924a.png",
-        "skinurl": "https://csgostash.com/skin/587/MAG-7-Seabird",
         "weapon": "Nova"
     },
     "Nova | Antique": {
@@ -4710,18 +4710,18 @@
         "skinurl": "https://csgostash.com/skin/826/Nova-Gila",
         "weapon": "Nova"
     },
-    "Nova | Koi": {
-        "name": "Nova | Koi",
-        "quality": "Restricted Shotgun\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_koi_light_large.28c3fe03f736b48dee10e1e88e77ac02132dcba6.png",
-        "skinurl": "https://csgostash.com/skin/396/Nova-Koi",
-        "weapon": "Nova"
-    },
     "Nova | Rising Skull": {
         "name": "Nova | Rising Skull",
         "quality": "Restricted Shotgun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_skull_nova_light_large.558d42424adda8cc3383b05d5388f75837b07efa.png",
         "skinurl": "https://csgostash.com/skin/233/Nova-Rising-Skull",
+        "weapon": "Nova"
+    },
+    "Nova | Koi": {
+        "name": "Nova | Koi",
+        "quality": "Restricted Shotgun\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_koi_light_large.28c3fe03f736b48dee10e1e88e77ac02132dcba6.png",
+        "skinurl": "https://csgostash.com/skin/396/Nova-Koi",
         "weapon": "Nova"
     },
     "Nova | Graphite": {
@@ -4871,18 +4871,18 @@
         "skinurl": "https://csgostash.com/skin/830/Sawed-Off-Wasteland-Princess",
         "weapon": "Sawed Off"
     },
-    "Sawed-Off | Serenity": {
-        "name": "Sawed-Off | Serenity",
-        "quality": "Restricted Shotgun\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_deva_light_large.9ffde04f2f082dce492b2fa6e250f69f538a50b5.png",
-        "skinurl": "https://csgostash.com/skin/520/Sawed-Off-Serenity",
-        "weapon": "Sawed Off"
-    },
     "Sawed-Off | Limelight": {
         "name": "Sawed-Off | Limelight",
         "quality": "Restricted Shotgun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawed_off_lime_light_large.87fbbe1597ea04a51b56f3b0f7c3fc6a5ff6553c.png",
         "skinurl": "https://csgostash.com/skin/757/Sawed-Off-Limelight",
+        "weapon": "Sawed Off"
+    },
+    "Sawed-Off | Serenity": {
+        "name": "Sawed-Off | Serenity",
+        "quality": "Restricted Shotgun\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_deva_light_large.9ffde04f2f082dce492b2fa6e250f69f538a50b5.png",
+        "skinurl": "https://csgostash.com/skin/520/Sawed-Off-Serenity",
         "weapon": "Sawed Off"
     },
     "Sawed-Off | Highwayman": {
@@ -5333,18 +5333,18 @@
         "skinurl": "https://csgostash.com/skin/1007/Negev-Bulkhead",
         "weapon": "Negev"
     },
-    "Negev | Nuclear Waste": {
-        "name": "Negev | Nuclear Waste",
-        "quality": "Industrial Grade Machine Gun\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light_large.2d4cd96f9a94367d4c22991250eb9350437d8be6.png",
-        "skinurl": "https://csgostash.com/skin/490/Negev-Nuclear-Waste",
-        "weapon": "Negev"
-    },
     "Negev | CaliCamo": {
         "name": "Negev | CaliCamo",
         "quality": "Industrial Grade Machine Gun\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_varicamo_desert_light_large.169bd7cc986fe8b3411c2f8dc484dad4ee9fff71.png",
         "skinurl": "https://csgostash.com/skin/182/Negev-CaliCamo",
+        "weapon": "Negev"
+    },
+    "Negev | Nuclear Waste": {
+        "name": "Negev | Nuclear Waste",
+        "quality": "Industrial Grade Machine Gun\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light_large.2d4cd96f9a94367d4c22991250eb9350437d8be6.png",
+        "skinurl": "https://csgostash.com/skin/490/Negev-Nuclear-Waste",
         "weapon": "Negev"
     },
     "Negev | Palm": {
@@ -5396,18 +5396,18 @@
         "skinurl": "https://csgostash.com/skin/1073/Navaja-Knife-Damascus-Steel",
         "weapon": "Navaja Knife"
     },
-    "Navaja Knife | Ultraviolet": {
-        "name": "Navaja Knife | Ultraviolet",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_so_purple_light_large.4d3624f9c62d1cdecc29c24e49c58071a8e0aa10.png",
-        "skinurl": "https://csgostash.com/skin/1078/Navaja-Knife-Ultraviolet",
-        "weapon": "Navaja Knife"
-    },
     "Navaja Knife | Rust Coat": {
         "name": "Navaja Knife | Rust Coat",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_steel_knife_light_large.a71a034e635cf59e5d308a2645656f90a072a5d6.png",
         "skinurl": "https://csgostash.com/skin/1076/Navaja-Knife-Rust-Coat",
+        "weapon": "Navaja Knife"
+    },
+    "Navaja Knife | Ultraviolet": {
+        "name": "Navaja Knife | Ultraviolet",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_so_purple_light_large.4d3624f9c62d1cdecc29c24e49c58071a8e0aa10.png",
+        "skinurl": "https://csgostash.com/skin/1078/Navaja-Knife-Ultraviolet",
         "weapon": "Navaja Knife"
     },
     "Navaja Knife | Fade": {
@@ -5417,11 +5417,11 @@
         "skinurl": "https://csgostash.com/skin/979/Navaja-Knife-Fade",
         "weapon": "Navaja Knife"
     },
-    "Navaja Knife | Night Stripe": {
-        "name": "Navaja Knife | Night Stripe",
+    "Navaja Knife | Crimson Web": {
+        "name": "Navaja Knife | Crimson Web",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light_large.bb637d2594b3d5c5f4bcb82a040be380660b772a.png",
-        "skinurl": "https://csgostash.com/skin/981/Navaja-Knife-Night-Stripe",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_hy_webs_light_large.56c049ebbe3f61c39bbc61b9658566ae4caf0998.png",
+        "skinurl": "https://csgostash.com/skin/978/Navaja-Knife-Crimson-Web",
         "weapon": "Navaja Knife"
     },
     "Navaja Knife | Slaughter": {
@@ -5431,11 +5431,11 @@
         "skinurl": "https://csgostash.com/skin/984/Navaja-Knife-Slaughter",
         "weapon": "Navaja Knife"
     },
-    "Navaja Knife | Crimson Web": {
-        "name": "Navaja Knife | Crimson Web",
+    "Navaja Knife | Urban Masked": {
+        "name": "Navaja Knife | Urban Masked",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_hy_webs_light_large.56c049ebbe3f61c39bbc61b9658566ae4caf0998.png",
-        "skinurl": "https://csgostash.com/skin/978/Navaja-Knife-Crimson-Web",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light_large.c73dbd39174d78663ee57fb6d81a4ab90f3da3e8.png",
+        "skinurl": "https://csgostash.com/skin/986/Navaja-Knife-Urban-Masked",
         "weapon": "Navaja Knife"
     },
     "Navaja Knife | Case Hardened": {
@@ -5445,11 +5445,18 @@
         "skinurl": "https://csgostash.com/skin/977/Navaja-Knife-Case-Hardened",
         "weapon": "Navaja Knife"
     },
-    "Navaja Knife | Urban Masked": {
-        "name": "Navaja Knife | Urban Masked",
+    "Navaja Knife | Scorched": {
+        "name": "Navaja Knife | Scorched",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light_large.c73dbd39174d78663ee57fb6d81a4ab90f3da3e8.png",
-        "skinurl": "https://csgostash.com/skin/986/Navaja-Knife-Urban-Masked",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_dapple_light_large.879ba0d22ebaccd2ba4b62c753e2db58b855a7a0.png",
+        "skinurl": "https://csgostash.com/skin/983/Navaja-Knife-Scorched",
+        "weapon": "Navaja Knife"
+    },
+    "Navaja Knife | Night Stripe": {
+        "name": "Navaja Knife | Night Stripe",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light_large.bb637d2594b3d5c5f4bcb82a040be380660b772a.png",
+        "skinurl": "https://csgostash.com/skin/981/Navaja-Knife-Night-Stripe",
         "weapon": "Navaja Knife"
     },
     "Navaja Knife | Blue Steel": {
@@ -5457,13 +5464,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_blued_light_large.1ce2d4556d50d1c13ca50c65a9a68f9e943ab147.png",
         "skinurl": "https://csgostash.com/skin/975/Navaja-Knife-Blue-Steel",
-        "weapon": "Navaja Knife"
-    },
-    "Navaja Knife | Scorched": {
-        "name": "Navaja Knife | Scorched",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_dapple_light_large.879ba0d22ebaccd2ba4b62c753e2db58b855a7a0.png",
-        "skinurl": "https://csgostash.com/skin/983/Navaja-Knife-Scorched",
         "weapon": "Navaja Knife"
     },
     "Navaja Knife | Stained": {
@@ -5536,6 +5536,13 @@
         "skinurl": "https://csgostash.com/skin/794/Bayonet-Freehand",
         "weapon": "Bayonet"
     },
+    "Bayonet | Bright Water": {
+        "name": "Bayonet | Bright Water",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_hy_ocean_knife_light_large.d262ade9c249afcfbeeacf19deef49ccb0049c1a.png",
+        "skinurl": "https://csgostash.com/skin/789/Bayonet-Bright-Water",
+        "weapon": "Bayonet"
+    },
     "Bayonet | Marble Fade": {
         "name": "Bayonet | Marble Fade",
         "quality": "Covert Knife\n\n",
@@ -5543,11 +5550,11 @@
         "skinurl": "https://csgostash.com/skin/537/Bayonet-Marble-Fade",
         "weapon": "Bayonet"
     },
-    "Bayonet | Bright Water": {
-        "name": "Bayonet | Bright Water",
+    "Bayonet | Tiger Tooth": {
+        "name": "Bayonet | Tiger Tooth",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_hy_ocean_knife_light_large.d262ade9c249afcfbeeacf19deef49ccb0049c1a.png",
-        "skinurl": "https://csgostash.com/skin/789/Bayonet-Bright-Water",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_an_tiger_orange_light_large.780ff3a58d01a73d4d7d755adbdca46483d13faf.png",
+        "skinurl": "https://csgostash.com/skin/538/Bayonet-Tiger-Tooth",
         "weapon": "Bayonet"
     },
     "Bayonet | Doppler": {
@@ -5557,11 +5564,11 @@
         "skinurl": "https://csgostash.com/skin/536/Bayonet-Doppler",
         "weapon": "Bayonet"
     },
-    "Bayonet | Tiger Tooth": {
-        "name": "Bayonet | Tiger Tooth",
+    "Bayonet | Damascus Steel": {
+        "name": "Bayonet | Damascus Steel",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_an_tiger_orange_light_large.780ff3a58d01a73d4d7d755adbdca46483d13faf.png",
-        "skinurl": "https://csgostash.com/skin/538/Bayonet-Tiger-Tooth",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aq_damascus_light_large.bd2b3b3fcd70fdec736a782fa5108ea9286d86a8.png",
+        "skinurl": "https://csgostash.com/skin/535/Bayonet-Damascus-Steel",
         "weapon": "Bayonet"
     },
     "Bayonet | Rust Coat": {
@@ -5578,25 +5585,11 @@
         "skinurl": "https://csgostash.com/skin/540/Bayonet-Ultraviolet",
         "weapon": "Bayonet"
     },
-    "Bayonet | Damascus Steel": {
-        "name": "Bayonet | Damascus Steel",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aq_damascus_light_large.bd2b3b3fcd70fdec736a782fa5108ea9286d86a8.png",
-        "skinurl": "https://csgostash.com/skin/535/Bayonet-Damascus-Steel",
-        "weapon": "Bayonet"
-    },
     "Bayonet | Fade": {
         "name": "Bayonet | Fade",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aa_fade_light_large.5ac4f422043b48b47e4453cc250c79fda3e78855.png",
         "skinurl": "https://csgostash.com/skin/307/Bayonet-Fade",
-        "weapon": "Bayonet"
-    },
-    "Bayonet | Case Hardened": {
-        "name": "Bayonet | Case Hardened",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aq_oiled_light_large.920866e2a1f17fda7702e0b4cb95f45a8a8c0070.png",
-        "skinurl": "https://csgostash.com/skin/305/Bayonet-Case-Hardened",
         "weapon": "Bayonet"
     },
     "Bayonet | Slaughter": {
@@ -5606,11 +5599,18 @@
         "skinurl": "https://csgostash.com/skin/312/Bayonet-Slaughter",
         "weapon": "Bayonet"
     },
-    "Bayonet | Crimson Web": {
-        "name": "Bayonet | Crimson Web",
+    "Bayonet | Case Hardened": {
+        "name": "Bayonet | Case Hardened",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_hy_webs_light_large.9246001fd8c8b0c077dc2836ea7271a4a020750b.png",
-        "skinurl": "https://csgostash.com/skin/306/Bayonet-Crimson-Web",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aq_oiled_light_large.920866e2a1f17fda7702e0b4cb95f45a8a8c0070.png",
+        "skinurl": "https://csgostash.com/skin/305/Bayonet-Case-Hardened",
+        "weapon": "Bayonet"
+    },
+    "Bayonet | Night": {
+        "name": "Bayonet | Night",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_so_night_light_large.11b2117af2e0f240111305857ab93e0091e347ed.png",
+        "skinurl": "https://csgostash.com/skin/309/Bayonet-Night",
         "weapon": "Bayonet"
     },
     "Bayonet | Blue Steel": {
@@ -5620,18 +5620,11 @@
         "skinurl": "https://csgostash.com/skin/303/Bayonet-Blue-Steel",
         "weapon": "Bayonet"
     },
-    "Bayonet | Safari Mesh": {
-        "name": "Bayonet | Safari Mesh",
+    "Bayonet | Crimson Web": {
+        "name": "Bayonet | Crimson Web",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_sp_mesh_tan_light_large.f0c1b71fd210b74b42dbf78253556e7ba9a99d15.png",
-        "skinurl": "https://csgostash.com/skin/310/Bayonet-Safari-Mesh",
-        "weapon": "Bayonet"
-    },
-    "Bayonet | Night": {
-        "name": "Bayonet | Night",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_so_night_light_large.11b2117af2e0f240111305857ab93e0091e347ed.png",
-        "skinurl": "https://csgostash.com/skin/309/Bayonet-Night",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_hy_webs_light_large.9246001fd8c8b0c077dc2836ea7271a4a020750b.png",
+        "skinurl": "https://csgostash.com/skin/306/Bayonet-Crimson-Web",
         "weapon": "Bayonet"
     },
     "Bayonet | Stained": {
@@ -5648,6 +5641,13 @@
         "skinurl": "https://csgostash.com/skin/304/Bayonet-Boreal-Forest",
         "weapon": "Bayonet"
     },
+    "Bayonet | Safari Mesh": {
+        "name": "Bayonet | Safari Mesh",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_sp_mesh_tan_light_large.f0c1b71fd210b74b42dbf78253556e7ba9a99d15.png",
+        "skinurl": "https://csgostash.com/skin/310/Bayonet-Safari-Mesh",
+        "weapon": "Bayonet"
+    },
     "Bayonet | Scorched": {
         "name": "Bayonet | Scorched",
         "quality": "Covert Knife\n\n",
@@ -5655,18 +5655,18 @@
         "skinurl": "https://csgostash.com/skin/311/Bayonet-Scorched",
         "weapon": "Bayonet"
     },
-    "Bayonet | Urban Masked": {
-        "name": "Bayonet | Urban Masked",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_sp_tape_urban_light_large.81c4d2a06c2d8c271a2b6de4bc47f0cb0d3f32be.png",
-        "skinurl": "https://csgostash.com/skin/314/Bayonet-Urban-Masked",
-        "weapon": "Bayonet"
-    },
     "Bayonet | Forest DDPAT": {
         "name": "Bayonet | Forest DDPAT",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_hy_ddpat_light_large.f53cb47d0ef8b431116008ec3896f8cedb712fb5.png",
         "skinurl": "https://csgostash.com/skin/308/Bayonet-Forest-DDPAT",
+        "weapon": "Bayonet"
+    },
+    "Bayonet | Urban Masked": {
+        "name": "Bayonet | Urban Masked",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_sp_tape_urban_light_large.81c4d2a06c2d8c271a2b6de4bc47f0cb0d3f32be.png",
+        "skinurl": "https://csgostash.com/skin/314/Bayonet-Urban-Masked",
         "weapon": "Bayonet"
     },
     "Karambit | ★ (Vanilla)": {
@@ -5725,6 +5725,13 @@
         "skinurl": "https://csgostash.com/skin/549/Karambit-Marble-Fade",
         "weapon": "Karambit"
     },
+    "Karambit | Ultraviolet": {
+        "name": "Karambit | Ultraviolet",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_so_purple_light_large.c30d6c61e9ec2e808b845d594a615e4623d56ee5.png",
+        "skinurl": "https://csgostash.com/skin/552/Karambit-Ultraviolet",
+        "weapon": "Karambit"
+    },
     "Karambit | Tiger Tooth": {
         "name": "Karambit | Tiger Tooth",
         "quality": "Covert Knife\n\n",
@@ -5746,13 +5753,6 @@
         "skinurl": "https://csgostash.com/skin/547/Karambit-Damascus-Steel",
         "weapon": "Karambit"
     },
-    "Karambit | Ultraviolet": {
-        "name": "Karambit | Ultraviolet",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_so_purple_light_large.c30d6c61e9ec2e808b845d594a615e4623d56ee5.png",
-        "skinurl": "https://csgostash.com/skin/552/Karambit-Ultraviolet",
-        "weapon": "Karambit"
-    },
     "Karambit | Rust Coat": {
         "name": "Karambit | Rust Coat",
         "quality": "Covert Knife\n\n",
@@ -5767,18 +5767,18 @@
         "skinurl": "https://csgostash.com/skin/333/Karambit-Fade",
         "weapon": "Karambit"
     },
-    "Karambit | Slaughter": {
-        "name": "Karambit | Slaughter",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_zebra_light_large.88457fbeca42e9dc1767983c76219d34b46abf14.png",
-        "skinurl": "https://csgostash.com/skin/338/Karambit-Slaughter",
-        "weapon": "Karambit"
-    },
     "Karambit | Crimson Web": {
         "name": "Karambit | Crimson Web",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_webs_light_large.61217494aaae26081c31d87f15739f42b4c1444a.png",
         "skinurl": "https://csgostash.com/skin/332/Karambit-Crimson-Web",
+        "weapon": "Karambit"
+    },
+    "Karambit | Slaughter": {
+        "name": "Karambit | Slaughter",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_zebra_light_large.88457fbeca42e9dc1767983c76219d34b46abf14.png",
+        "skinurl": "https://csgostash.com/skin/338/Karambit-Slaughter",
         "weapon": "Karambit"
     },
     "Karambit | Case Hardened": {
@@ -5816,20 +5816,6 @@
         "skinurl": "https://csgostash.com/skin/330/Karambit-Boreal-Forest",
         "weapon": "Karambit"
     },
-    "Karambit | Safari Mesh": {
-        "name": "Karambit | Safari Mesh",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_mesh_tan_light_large.a2d4ccf9954b957c819ade72a1cbea7ca0f0ad1f.png",
-        "skinurl": "https://csgostash.com/skin/336/Karambit-Safari-Mesh",
-        "weapon": "Karambit"
-    },
-    "Karambit | Scorched": {
-        "name": "Karambit | Scorched",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_dapple_light_large.88adf51bc8d53efc0d8c04114bd03d388e00d2b8.png",
-        "skinurl": "https://csgostash.com/skin/337/Karambit-Scorched",
-        "weapon": "Karambit"
-    },
     "Karambit | Forest DDPAT": {
         "name": "Karambit | Forest DDPAT",
         "quality": "Covert Knife\n\n",
@@ -5842,6 +5828,20 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_tape_urban_light_large.d36d1cf81823ad0463a42ff3a8d9b1aff4910a73.png",
         "skinurl": "https://csgostash.com/skin/340/Karambit-Urban-Masked",
+        "weapon": "Karambit"
+    },
+    "Karambit | Safari Mesh": {
+        "name": "Karambit | Safari Mesh",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_mesh_tan_light_large.a2d4ccf9954b957c819ade72a1cbea7ca0f0ad1f.png",
+        "skinurl": "https://csgostash.com/skin/336/Karambit-Safari-Mesh",
+        "weapon": "Karambit"
+    },
+    "Karambit | Scorched": {
+        "name": "Karambit | Scorched",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_dapple_light_large.88adf51bc8d53efc0d8c04114bd03d388e00d2b8.png",
+        "skinurl": "https://csgostash.com/skin/337/Karambit-Scorched",
         "weapon": "Karambit"
     },
     "Stiletto Knife | ★ (Vanilla)": {
@@ -5858,13 +5858,6 @@
         "skinurl": "https://csgostash.com/skin/1081/Stiletto-Knife-Marble-Fade",
         "weapon": "Stiletto Knife"
     },
-    "Stiletto Knife | Rust Coat": {
-        "name": "Stiletto Knife | Rust Coat",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_steel_knife_light_large.f714d7f3d6c1e0381dbfcd8f221f7edbe8bd2f28.png",
-        "skinurl": "https://csgostash.com/skin/1082/Stiletto-Knife-Rust-Coat",
-        "weapon": "Stiletto Knife"
-    },
     "Stiletto Knife | Doppler": {
         "name": "Stiletto Knife | Doppler",
         "quality": "Covert Knife\n\n",
@@ -5879,6 +5872,13 @@
         "skinurl": "https://csgostash.com/skin/1083/Stiletto-Knife-Tiger-Tooth",
         "weapon": "Stiletto Knife"
     },
+    "Stiletto Knife | Damascus Steel": {
+        "name": "Stiletto Knife | Damascus Steel",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_damascus_prisma_light_large.d7378dcf37ca47334e789fed3691b11c9571a3a3.png",
+        "skinurl": "https://csgostash.com/skin/1079/Stiletto-Knife-Damascus-Steel",
+        "weapon": "Stiletto Knife"
+    },
     "Stiletto Knife | Ultraviolet": {
         "name": "Stiletto Knife | Ultraviolet",
         "quality": "Covert Knife\n\n",
@@ -5886,11 +5886,11 @@
         "skinurl": "https://csgostash.com/skin/1084/Stiletto-Knife-Ultraviolet",
         "weapon": "Stiletto Knife"
     },
-    "Stiletto Knife | Damascus Steel": {
-        "name": "Stiletto Knife | Damascus Steel",
+    "Stiletto Knife | Rust Coat": {
+        "name": "Stiletto Knife | Rust Coat",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_damascus_prisma_light_large.d7378dcf37ca47334e789fed3691b11c9571a3a3.png",
-        "skinurl": "https://csgostash.com/skin/1079/Stiletto-Knife-Damascus-Steel",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_steel_knife_light_large.f714d7f3d6c1e0381dbfcd8f221f7edbe8bd2f28.png",
+        "skinurl": "https://csgostash.com/skin/1082/Stiletto-Knife-Rust-Coat",
         "weapon": "Stiletto Knife"
     },
     "Stiletto Knife | Fade": {
@@ -5900,13 +5900,6 @@
         "skinurl": "https://csgostash.com/skin/953/Stiletto-Knife-Fade",
         "weapon": "Stiletto Knife"
     },
-    "Stiletto Knife | Crimson Web": {
-        "name": "Stiletto Knife | Crimson Web",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_webs_light_large.5faae0b5462955594df775952fbd16200c430af3.png",
-        "skinurl": "https://csgostash.com/skin/952/Stiletto-Knife-Crimson-Web",
-        "weapon": "Stiletto Knife"
-    },
     "Stiletto Knife | Slaughter": {
         "name": "Stiletto Knife | Slaughter",
         "quality": "Covert Knife\n\n",
@@ -5914,11 +5907,11 @@
         "skinurl": "https://csgostash.com/skin/958/Stiletto-Knife-Slaughter",
         "weapon": "Stiletto Knife"
     },
-    "Stiletto Knife | Safari Mesh": {
-        "name": "Stiletto Knife | Safari Mesh",
+    "Stiletto Knife | Crimson Web": {
+        "name": "Stiletto Knife | Crimson Web",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_mesh_tan_light_large.6fb75993eb2008e63935a1e580aa8ffc8eceff9a.png",
-        "skinurl": "https://csgostash.com/skin/956/Stiletto-Knife-Safari-Mesh",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_webs_light_large.5faae0b5462955594df775952fbd16200c430af3.png",
+        "skinurl": "https://csgostash.com/skin/952/Stiletto-Knife-Crimson-Web",
         "weapon": "Stiletto Knife"
     },
     "Stiletto Knife | Case Hardened": {
@@ -5935,13 +5928,6 @@
         "skinurl": "https://csgostash.com/skin/955/Stiletto-Knife-Night-Stripe",
         "weapon": "Stiletto Knife"
     },
-    "Stiletto Knife | Stained": {
-        "name": "Stiletto Knife | Stained",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_forced_light_large.7c6f16082961e6365d54670283906c6b58da3c33.png",
-        "skinurl": "https://csgostash.com/skin/959/Stiletto-Knife-Stained",
-        "weapon": "Stiletto Knife"
-    },
     "Stiletto Knife | Blue Steel": {
         "name": "Stiletto Knife | Blue Steel",
         "quality": "Covert Knife\n\n",
@@ -5949,11 +5935,25 @@
         "skinurl": "https://csgostash.com/skin/949/Stiletto-Knife-Blue-Steel",
         "weapon": "Stiletto Knife"
     },
+    "Stiletto Knife | Stained": {
+        "name": "Stiletto Knife | Stained",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_forced_light_large.7c6f16082961e6365d54670283906c6b58da3c33.png",
+        "skinurl": "https://csgostash.com/skin/959/Stiletto-Knife-Stained",
+        "weapon": "Stiletto Knife"
+    },
     "Stiletto Knife | Boreal Forest": {
         "name": "Stiletto Knife | Boreal Forest",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_forest_boreal_light_large.be53b843654a400a4c5a6787c6237f6909e296ce.png",
         "skinurl": "https://csgostash.com/skin/950/Stiletto-Knife-Boreal-Forest",
+        "weapon": "Stiletto Knife"
+    },
+    "Stiletto Knife | Safari Mesh": {
+        "name": "Stiletto Knife | Safari Mesh",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_mesh_tan_light_large.6fb75993eb2008e63935a1e580aa8ffc8eceff9a.png",
+        "skinurl": "https://csgostash.com/skin/956/Stiletto-Knife-Safari-Mesh",
         "weapon": "Stiletto Knife"
     },
     "Stiletto Knife | Urban Masked": {
@@ -6005,13 +6005,6 @@
         "skinurl": "https://csgostash.com/skin/1089/Talon-Knife-Tiger-Tooth",
         "weapon": "Talon Knife"
     },
-    "Talon Knife | Rust Coat": {
-        "name": "Talon Knife | Rust Coat",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_steel_knife_light_large.09f8e1ffebb9345ae6293dc1734e855a1e83c0c5.png",
-        "skinurl": "https://csgostash.com/skin/1088/Talon-Knife-Rust-Coat",
-        "weapon": "Talon Knife"
-    },
     "Talon Knife | Damascus Steel": {
         "name": "Talon Knife | Damascus Steel",
         "quality": "Covert Knife\n\n",
@@ -6026,11 +6019,25 @@
         "skinurl": "https://csgostash.com/skin/1090/Talon-Knife-Ultraviolet",
         "weapon": "Talon Knife"
     },
+    "Talon Knife | Rust Coat": {
+        "name": "Talon Knife | Rust Coat",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_steel_knife_light_large.09f8e1ffebb9345ae6293dc1734e855a1e83c0c5.png",
+        "skinurl": "https://csgostash.com/skin/1088/Talon-Knife-Rust-Coat",
+        "weapon": "Talon Knife"
+    },
     "Talon Knife | Fade": {
         "name": "Talon Knife | Fade",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aa_fade_light_large.54c2c841e44a279e001873f80f987885780bb156.png",
         "skinurl": "https://csgostash.com/skin/992/Talon-Knife-Fade",
+        "weapon": "Talon Knife"
+    },
+    "Talon Knife | Slaughter": {
+        "name": "Talon Knife | Slaughter",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_am_zebra_light_large.80afcfbe0e2aa2435c037524713ac9411c15cae9.png",
+        "skinurl": "https://csgostash.com/skin/997/Talon-Knife-Slaughter",
         "weapon": "Talon Knife"
     },
     "Talon Knife | Crimson Web": {
@@ -6047,13 +6054,6 @@
         "skinurl": "https://csgostash.com/skin/990/Talon-Knife-Case-Hardened",
         "weapon": "Talon Knife"
     },
-    "Talon Knife | Slaughter": {
-        "name": "Talon Knife | Slaughter",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_am_zebra_light_large.80afcfbe0e2aa2435c037524713ac9411c15cae9.png",
-        "skinurl": "https://csgostash.com/skin/997/Talon-Knife-Slaughter",
-        "weapon": "Talon Knife"
-    },
     "Talon Knife | Blue Steel": {
         "name": "Talon Knife | Blue Steel",
         "quality": "Covert Knife\n\n",
@@ -6068,11 +6068,11 @@
         "skinurl": "https://csgostash.com/skin/998/Talon-Knife-Stained",
         "weapon": "Talon Knife"
     },
-    "Talon Knife | Night Stripe": {
-        "name": "Talon Knife | Night Stripe",
+    "Talon Knife | Safari Mesh": {
+        "name": "Talon Knife | Safari Mesh",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_nightstripe_light_large.0c88154966c609dd394248e955a5db8b2c8bc5b7.png",
-        "skinurl": "https://csgostash.com/skin/994/Talon-Knife-Night-Stripe",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_mesh_tan_light_large.d0fef03f781d895f204c4888463753ca250397a4.png",
+        "skinurl": "https://csgostash.com/skin/995/Talon-Knife-Safari-Mesh",
         "weapon": "Talon Knife"
     },
     "Talon Knife | Scorched": {
@@ -6082,11 +6082,11 @@
         "skinurl": "https://csgostash.com/skin/996/Talon-Knife-Scorched",
         "weapon": "Talon Knife"
     },
-    "Talon Knife | Forest DDPAT": {
-        "name": "Talon Knife | Forest DDPAT",
+    "Talon Knife | Night Stripe": {
+        "name": "Talon Knife | Night Stripe",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_ddpat_light_large.2f4c3c3f6fbc43a980ab3e9dc173ad686655f8cd.png",
-        "skinurl": "https://csgostash.com/skin/993/Talon-Knife-Forest-DDPAT",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_nightstripe_light_large.0c88154966c609dd394248e955a5db8b2c8bc5b7.png",
+        "skinurl": "https://csgostash.com/skin/994/Talon-Knife-Night-Stripe",
         "weapon": "Talon Knife"
     },
     "Talon Knife | Urban Masked": {
@@ -6096,18 +6096,18 @@
         "skinurl": "https://csgostash.com/skin/999/Talon-Knife-Urban-Masked",
         "weapon": "Talon Knife"
     },
+    "Talon Knife | Forest DDPAT": {
+        "name": "Talon Knife | Forest DDPAT",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_ddpat_light_large.2f4c3c3f6fbc43a980ab3e9dc173ad686655f8cd.png",
+        "skinurl": "https://csgostash.com/skin/993/Talon-Knife-Forest-DDPAT",
+        "weapon": "Talon Knife"
+    },
     "Talon Knife | Boreal Forest": {
         "name": "Talon Knife | Boreal Forest",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_forest_boreal_light_large.593dd2a8c4d229e052107a442d7922a4e6846c0f.png",
         "skinurl": "https://csgostash.com/skin/989/Talon-Knife-Boreal-Forest",
-        "weapon": "Talon Knife"
-    },
-    "Talon Knife | Safari Mesh": {
-        "name": "Talon Knife | Safari Mesh",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_mesh_tan_light_large.d0fef03f781d895f204c4888463753ca250397a4.png",
-        "skinurl": "https://csgostash.com/skin/995/Talon-Knife-Safari-Mesh",
         "weapon": "Talon Knife"
     },
     "Ursus Knife | ★ (Vanilla)": {
@@ -6124,18 +6124,11 @@
         "skinurl": "https://csgostash.com/skin/1093/Ursus-Knife-Marble-Fade",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Tiger Tooth": {
-        "name": "Ursus Knife | Tiger Tooth",
+    "Ursus Knife | Ultraviolet": {
+        "name": "Ursus Knife | Ultraviolet",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_an_tiger_orange_light_large.34be676a93f4d6f275e0690d64a3c601e1612dc9.png",
-        "skinurl": "https://csgostash.com/skin/1095/Ursus-Knife-Tiger-Tooth",
-        "weapon": "Ursus Knife"
-    },
-    "Ursus Knife | Doppler": {
-        "name": "Ursus Knife | Doppler",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_doppler_phase1_light_large.e1f226d384ff63baac83dfe015fc5244a8b58986.png",
-        "skinurl": "https://csgostash.com/skin/1092/Ursus-Knife-Doppler",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_so_purple_light_large.88bd0def19100cd3e17f1d568206d2816614daa5.png",
+        "skinurl": "https://csgostash.com/skin/1096/Ursus-Knife-Ultraviolet",
         "weapon": "Ursus Knife"
     },
     "Ursus Knife | Damascus Steel": {
@@ -6145,11 +6138,18 @@
         "skinurl": "https://csgostash.com/skin/1091/Ursus-Knife-Damascus-Steel",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Ultraviolet": {
-        "name": "Ursus Knife | Ultraviolet",
+    "Ursus Knife | Doppler": {
+        "name": "Ursus Knife | Doppler",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_so_purple_light_large.88bd0def19100cd3e17f1d568206d2816614daa5.png",
-        "skinurl": "https://csgostash.com/skin/1096/Ursus-Knife-Ultraviolet",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_doppler_phase1_light_large.e1f226d384ff63baac83dfe015fc5244a8b58986.png",
+        "skinurl": "https://csgostash.com/skin/1092/Ursus-Knife-Doppler",
+        "weapon": "Ursus Knife"
+    },
+    "Ursus Knife | Tiger Tooth": {
+        "name": "Ursus Knife | Tiger Tooth",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_an_tiger_orange_light_large.34be676a93f4d6f275e0690d64a3c601e1612dc9.png",
+        "skinurl": "https://csgostash.com/skin/1095/Ursus-Knife-Tiger-Tooth",
         "weapon": "Ursus Knife"
     },
     "Ursus Knife | Rust Coat": {
@@ -6166,18 +6166,18 @@
         "skinurl": "https://csgostash.com/skin/966/Ursus-Knife-Fade",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Slaughter": {
-        "name": "Ursus Knife | Slaughter",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_zebra_light_large.8ee56f4ebe2527ddb5789f4e7be3352873f597fa.png",
-        "skinurl": "https://csgostash.com/skin/971/Ursus-Knife-Slaughter",
-        "weapon": "Ursus Knife"
-    },
     "Ursus Knife | Crimson Web": {
         "name": "Ursus Knife | Crimson Web",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_hy_webs_light_large.831c519791469faa767e2ab582d8e7a8f2631267.png",
         "skinurl": "https://csgostash.com/skin/965/Ursus-Knife-Crimson-Web",
+        "weapon": "Ursus Knife"
+    },
+    "Ursus Knife | Slaughter": {
+        "name": "Ursus Knife | Slaughter",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_zebra_light_large.8ee56f4ebe2527ddb5789f4e7be3352873f597fa.png",
+        "skinurl": "https://csgostash.com/skin/971/Ursus-Knife-Slaughter",
         "weapon": "Ursus Knife"
     },
     "Ursus Knife | Case Hardened": {
@@ -6194,11 +6194,11 @@
         "skinurl": "https://csgostash.com/skin/962/Ursus-Knife-Blue-Steel",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Stained": {
-        "name": "Ursus Knife | Stained",
+    "Ursus Knife | Night Stripe": {
+        "name": "Ursus Knife | Night Stripe",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_forced_light_large.805b576db8e7c270129ebbf01326cacb00100f63.png",
-        "skinurl": "https://csgostash.com/skin/972/Ursus-Knife-Stained",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_nightstripe_light_large.b92f5208e7dc6057d78a7e54b8856d202c899f49.png",
+        "skinurl": "https://csgostash.com/skin/968/Ursus-Knife-Night-Stripe",
         "weapon": "Ursus Knife"
     },
     "Ursus Knife | Urban Masked": {
@@ -6208,18 +6208,18 @@
         "skinurl": "https://csgostash.com/skin/973/Ursus-Knife-Urban-Masked",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Night Stripe": {
-        "name": "Ursus Knife | Night Stripe",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_nightstripe_light_large.b92f5208e7dc6057d78a7e54b8856d202c899f49.png",
-        "skinurl": "https://csgostash.com/skin/968/Ursus-Knife-Night-Stripe",
-        "weapon": "Ursus Knife"
-    },
     "Ursus Knife | Forest DDPAT": {
         "name": "Ursus Knife | Forest DDPAT",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_hy_ddpat_light_large.b32fccdaab716eabc5bdab046650f7c319d6d5b8.png",
         "skinurl": "https://csgostash.com/skin/967/Ursus-Knife-Forest-DDPAT",
+        "weapon": "Ursus Knife"
+    },
+    "Ursus Knife | Stained": {
+        "name": "Ursus Knife | Stained",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_forced_light_large.805b576db8e7c270129ebbf01326cacb00100f63.png",
+        "skinurl": "https://csgostash.com/skin/972/Ursus-Knife-Stained",
         "weapon": "Ursus Knife"
     },
     "Ursus Knife | Scorched": {
@@ -6229,13 +6229,6 @@
         "skinurl": "https://csgostash.com/skin/970/Ursus-Knife-Scorched",
         "weapon": "Ursus Knife"
     },
-    "Ursus Knife | Safari Mesh": {
-        "name": "Ursus Knife | Safari Mesh",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_mesh_tan_light_large.368b82e4e9f516c85137ff87782f3989541326a7.png",
-        "skinurl": "https://csgostash.com/skin/969/Ursus-Knife-Safari-Mesh",
-        "weapon": "Ursus Knife"
-    },
     "Ursus Knife | Boreal Forest": {
         "name": "Ursus Knife | Boreal Forest",
         "quality": "Covert Knife\n\n",
@@ -6243,18 +6236,25 @@
         "skinurl": "https://csgostash.com/skin/963/Ursus-Knife-Boreal-Forest",
         "weapon": "Ursus Knife"
     },
-    "Bowie Knife | ★ (Vanilla)": {
-        "name": "Bowie Knife | ★ (Vanilla)",
+    "Ursus Knife | Safari Mesh": {
+        "name": "Ursus Knife | Safari Mesh",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png",
-        "skinurl": "https://csgostash.com/skin/722/Bowie-Knife-Vanilla",
-        "weapon": "Bowie Knife"
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_mesh_tan_light_large.368b82e4e9f516c85137ff87782f3989541326a7.png",
+        "skinurl": "https://csgostash.com/skin/969/Ursus-Knife-Safari-Mesh",
+        "weapon": "Ursus Knife"
     },
     "Bowie Knife | Doppler": {
         "name": "Bowie Knife | Doppler",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase1_light_large.0885508f274028c4fb173666aaf019f448955904.png",
         "skinurl": "https://csgostash.com/skin/851/Bowie-Knife-Doppler",
+        "weapon": "Bowie Knife"
+    },
+    "Bowie Knife | ★ (Vanilla)": {
+        "name": "Bowie Knife | ★ (Vanilla)",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png",
+        "skinurl": "https://csgostash.com/skin/722/Bowie-Knife-Vanilla",
         "weapon": "Bowie Knife"
     },
     "Bowie Knife | Ultraviolet": {
@@ -6299,6 +6299,13 @@
         "skinurl": "https://csgostash.com/skin/727/Bowie-Knife-Fade",
         "weapon": "Bowie Knife"
     },
+    "Bowie Knife | Case Hardened": {
+        "name": "Bowie Knife | Case Hardened",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light_large.5d61d6e094f21b2e857f06fc6123ad4d1fe96193.png",
+        "skinurl": "https://csgostash.com/skin/725/Bowie-Knife-Case-Hardened",
+        "weapon": "Bowie Knife"
+    },
     "Bowie Knife | Slaughter": {
         "name": "Bowie Knife | Slaughter",
         "quality": "Covert Knife\n\n",
@@ -6311,13 +6318,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_webs_light_large.d03e755f33f66df9ee9d8b1cf50b633ff458978b.png",
         "skinurl": "https://csgostash.com/skin/726/Bowie-Knife-Crimson-Web",
-        "weapon": "Bowie Knife"
-    },
-    "Bowie Knife | Case Hardened": {
-        "name": "Bowie Knife | Case Hardened",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light_large.5d61d6e094f21b2e857f06fc6123ad4d1fe96193.png",
-        "skinurl": "https://csgostash.com/skin/725/Bowie-Knife-Case-Hardened",
         "weapon": "Bowie Knife"
     },
     "Bowie Knife | Blue Steel": {
@@ -6348,13 +6348,6 @@
         "skinurl": "https://csgostash.com/skin/724/Bowie-Knife-Boreal-Forest",
         "weapon": "Bowie Knife"
     },
-    "Bowie Knife | Safari Mesh": {
-        "name": "Bowie Knife | Safari Mesh",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_mesh_tan_light_large.360aa198bded3bec8d3c051bd1d6dc7270b3b91f.png",
-        "skinurl": "https://csgostash.com/skin/730/Bowie-Knife-Safari-Mesh",
-        "weapon": "Bowie Knife"
-    },
     "Bowie Knife | Urban Masked": {
         "name": "Bowie Knife | Urban Masked",
         "quality": "Covert Knife\n\n",
@@ -6374,6 +6367,13 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_ddpat_light_large.41ce1d0d829bdfe39882a843045a2a940da6be8f.png",
         "skinurl": "https://csgostash.com/skin/728/Bowie-Knife-Forest-DDPAT",
+        "weapon": "Bowie Knife"
+    },
+    "Bowie Knife | Safari Mesh": {
+        "name": "Bowie Knife | Safari Mesh",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_mesh_tan_light_large.360aa198bded3bec8d3c051bd1d6dc7270b3b91f.png",
+        "skinurl": "https://csgostash.com/skin/730/Bowie-Knife-Safari-Mesh",
         "weapon": "Bowie Knife"
     },
     "Butterfly Knife | ★ (Vanilla)": {
@@ -6425,6 +6425,13 @@
         "skinurl": "https://csgostash.com/skin/860/Butterfly-Knife-Rust-Coat",
         "weapon": "Butterfly Knife"
     },
+    "Butterfly Knife | Crimson Web": {
+        "name": "Butterfly Knife | Crimson Web",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_webs_light_large.8e3a3668a8678a4ce56b2675c60d7ec6a756827a.png",
+        "skinurl": "https://csgostash.com/skin/456/Butterfly-Knife-Crimson-Web",
+        "weapon": "Butterfly Knife"
+    },
     "Butterfly Knife | Fade": {
         "name": "Butterfly Knife | Fade",
         "quality": "Covert Knife\n\n",
@@ -6437,13 +6444,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_zebra_light_large.8f5d28f8b8607d83059c4df618b399e2fa551bb4.png",
         "skinurl": "https://csgostash.com/skin/462/Butterfly-Knife-Slaughter",
-        "weapon": "Butterfly Knife"
-    },
-    "Butterfly Knife | Crimson Web": {
-        "name": "Butterfly Knife | Crimson Web",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_webs_light_large.8e3a3668a8678a4ce56b2675c60d7ec6a756827a.png",
-        "skinurl": "https://csgostash.com/skin/456/Butterfly-Knife-Crimson-Web",
         "weapon": "Butterfly Knife"
     },
     "Butterfly Knife | Blue Steel": {
@@ -6467,18 +6467,11 @@
         "skinurl": "https://csgostash.com/skin/459/Butterfly-Knife-Night",
         "weapon": "Butterfly Knife"
     },
-    "Butterfly Knife | Scorched": {
-        "name": "Butterfly Knife | Scorched",
+    "Butterfly Knife | Urban Masked": {
+        "name": "Butterfly Knife | Urban Masked",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_dapple_light_large.6110a91f809c996696fa87d90b7ea88e0377d0df.png",
-        "skinurl": "https://csgostash.com/skin/461/Butterfly-Knife-Scorched",
-        "weapon": "Butterfly Knife"
-    },
-    "Butterfly Knife | Forest DDPAT": {
-        "name": "Butterfly Knife | Forest DDPAT",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_ddpat_light_large.6e874d0a6db5d1468c3b5b99c303bf76837593fe.png",
-        "skinurl": "https://csgostash.com/skin/458/Butterfly-Knife-Forest-DDPAT",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_tape_urban_light_large.dab43f48bd2eb2c9734c90b5482f222eaa95cebb.png",
+        "skinurl": "https://csgostash.com/skin/464/Butterfly-Knife-Urban-Masked",
         "weapon": "Butterfly Knife"
     },
     "Butterfly Knife | Stained": {
@@ -6495,6 +6488,13 @@
         "skinurl": "https://csgostash.com/skin/454/Butterfly-Knife-Boreal-Forest",
         "weapon": "Butterfly Knife"
     },
+    "Butterfly Knife | Forest DDPAT": {
+        "name": "Butterfly Knife | Forest DDPAT",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_ddpat_light_large.6e874d0a6db5d1468c3b5b99c303bf76837593fe.png",
+        "skinurl": "https://csgostash.com/skin/458/Butterfly-Knife-Forest-DDPAT",
+        "weapon": "Butterfly Knife"
+    },
     "Butterfly Knife | Safari Mesh": {
         "name": "Butterfly Knife | Safari Mesh",
         "quality": "Covert Knife\n\n",
@@ -6502,12 +6502,12 @@
         "skinurl": "https://csgostash.com/skin/460/Butterfly-Knife-Safari-Mesh",
         "weapon": "Butterfly Knife"
     },
-    "Butterfly Knife | Urban Masked": {
-        "name": "Butterfly Knife | Urban Masked",
+    "Butterfly Knife | Scorched": {
+        "name": "Butterfly Knife | Scorched",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_tape_urban_light_large.dab43f48bd2eb2c9734c90b5482f222eaa95cebb.png",
-        "skinurl": "https://csgostash.com/skin/464/Butterfly-Knife-Urban-Masked",
-        "weapon": "Butterfly Knife"
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_dapple_light_large.6110a91f809c996696fa87d90b7ea88e0377d0df.png",
+        "skinurl": "https://csgostash.com/skin/461/Butterfly-Knife-Scorched",
+        "weapon": "Falchion Knife"
     },
     "Falchion Knife | ★ (Vanilla)": {
         "name": "Falchion Knife | ★ (Vanilla)",
@@ -6558,18 +6558,18 @@
         "skinurl": "https://csgostash.com/skin/866/Falchion-Knife-Rust-Coat",
         "weapon": "Falchion Knife"
     },
-    "Falchion Knife | Fade": {
-        "name": "Falchion Knife | Fade",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aa_fade_light_large.1db6bc12f4b49677b330382c3e5af21f46d0c124.png",
-        "skinurl": "https://csgostash.com/skin/635/Falchion-Knife-Fade",
-        "weapon": "Falchion Knife"
-    },
     "Falchion Knife | Slaughter": {
         "name": "Falchion Knife | Slaughter",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_zebra_light_large.3cbce2191d2a20b88e610d8180c2f4a9ee0066ca.png",
         "skinurl": "https://csgostash.com/skin/640/Falchion-Knife-Slaughter",
+        "weapon": "Falchion Knife"
+    },
+    "Falchion Knife | Fade": {
+        "name": "Falchion Knife | Fade",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aa_fade_light_large.1db6bc12f4b49677b330382c3e5af21f46d0c124.png",
+        "skinurl": "https://csgostash.com/skin/635/Falchion-Knife-Fade",
         "weapon": "Falchion Knife"
     },
     "Falchion Knife | Crimson Web": {
@@ -6586,18 +6586,18 @@
         "skinurl": "https://csgostash.com/skin/633/Falchion-Knife-Case-Hardened",
         "weapon": "Falchion Knife"
     },
-    "Falchion Knife | Blue Steel": {
-        "name": "Falchion Knife | Blue Steel",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_blued_light_large.ead09a065b115e707a59aa49689af0ed3dd8d1f3.png",
-        "skinurl": "https://csgostash.com/skin/631/Falchion-Knife-Blue-Steel",
-        "weapon": "Falchion Knife"
-    },
     "Falchion Knife | Night": {
         "name": "Falchion Knife | Night",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_so_night_light_large.535e93982805360eacc5969e1b28fe64f15216fe.png",
         "skinurl": "https://csgostash.com/skin/637/Falchion-Knife-Night",
+        "weapon": "Falchion Knife"
+    },
+    "Falchion Knife | Blue Steel": {
+        "name": "Falchion Knife | Blue Steel",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_blued_light_large.ead09a065b115e707a59aa49689af0ed3dd8d1f3.png",
+        "skinurl": "https://csgostash.com/skin/631/Falchion-Knife-Blue-Steel",
         "weapon": "Falchion Knife"
     },
     "Falchion Knife | Scorched": {
@@ -6614,6 +6614,13 @@
         "skinurl": "https://csgostash.com/skin/636/Falchion-Knife-Forest-DDPAT",
         "weapon": "Falchion Knife"
     },
+    "Falchion Knife | Boreal Forest": {
+        "name": "Falchion Knife | Boreal Forest",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light_large.9bf4abd73deee0ae82ce0a8670e1056d3a546107.png",
+        "skinurl": "https://csgostash.com/skin/632/Falchion-Knife-Boreal-Forest",
+        "weapon": "Falchion Knife"
+    },
     "Falchion Knife | Stained": {
         "name": "Falchion Knife | Stained",
         "quality": "Covert Knife\n\n",
@@ -6626,13 +6633,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_sp_mesh_tan_light_large.eccb7999f574f5e1080dfef159c3903c4e6db0de.png",
         "skinurl": "https://csgostash.com/skin/638/Falchion-Knife-Safari-Mesh",
-        "weapon": "Falchion Knife"
-    },
-    "Falchion Knife | Boreal Forest": {
-        "name": "Falchion Knife | Boreal Forest",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light_large.9bf4abd73deee0ae82ce0a8670e1056d3a546107.png",
-        "skinurl": "https://csgostash.com/skin/632/Falchion-Knife-Boreal-Forest",
         "weapon": "Falchion Knife"
     },
     "Falchion Knife | Urban Masked": {
@@ -6649,25 +6649,18 @@
         "skinurl": "https://csgostash.com/skin/289/Flip-Knife-Vanilla",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Lore": {
-        "name": "Flip Knife | Lore",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_lore_light_large.df03b3186c105676470d2ac73e4bea375fedbf77.png",
-        "skinurl": "https://csgostash.com/skin/770/Flip-Knife-Lore",
-        "weapon": "Flip Knife"
-    },
-    "Flip Knife | Gamma Doppler": {
-        "name": "Flip Knife | Gamma Doppler",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light_large.7bf92c117841e553340bc5c0d0266cb458b92249.png",
-        "skinurl": "https://csgostash.com/skin/780/Flip-Knife-Gamma-Doppler",
-        "weapon": "Flip Knife"
-    },
     "Flip Knife | Autotronic": {
         "name": "Flip Knife | Autotronic",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_gs_flip_autotronic_light_large.882d012ef1e758c9e323dd5d6202c49fbe894e05.png",
         "skinurl": "https://csgostash.com/skin/785/Flip-Knife-Autotronic",
+        "weapon": "Flip Knife"
+    },
+    "Flip Knife | Lore": {
+        "name": "Flip Knife | Lore",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_lore_light_large.df03b3186c105676470d2ac73e4bea375fedbf77.png",
+        "skinurl": "https://csgostash.com/skin/770/Flip-Knife-Lore",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Freehand": {
@@ -6677,11 +6670,11 @@
         "skinurl": "https://csgostash.com/skin/795/Flip-Knife-Freehand",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Bright Water": {
-        "name": "Flip Knife | Bright Water",
+    "Flip Knife | Gamma Doppler": {
+        "name": "Flip Knife | Gamma Doppler",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ocean_knife_light_large.6d35f9bc8d0ab2da7112155cf37ef782e542ef31.png",
-        "skinurl": "https://csgostash.com/skin/790/Flip-Knife-Bright-Water",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light_large.7bf92c117841e553340bc5c0d0266cb458b92249.png",
+        "skinurl": "https://csgostash.com/skin/780/Flip-Knife-Gamma-Doppler",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Black Laminate": {
@@ -6689,6 +6682,13 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_stonewash_light_large.e6f71d193d2965b443ede7015911feedfea6e5a8.png",
         "skinurl": "https://csgostash.com/skin/775/Flip-Knife-Black-Laminate",
+        "weapon": "Flip Knife"
+    },
+    "Flip Knife | Bright Water": {
+        "name": "Flip Knife | Bright Water",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ocean_knife_light_large.6d35f9bc8d0ab2da7112155cf37ef782e542ef31.png",
+        "skinurl": "https://csgostash.com/skin/790/Flip-Knife-Bright-Water",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Marble Fade": {
@@ -6726,13 +6726,6 @@
         "skinurl": "https://csgostash.com/skin/529/Flip-Knife-Damascus-Steel",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Rust Coat": {
-        "name": "Flip Knife | Rust Coat",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_steel_knife_light_large.3be134e0b20c32442d7b508a2ec065af3c59ea89.png",
-        "skinurl": "https://csgostash.com/skin/533/Flip-Knife-Rust-Coat",
-        "weapon": "Flip Knife"
-    },
     "Flip Knife | Crimson Web": {
         "name": "Flip Knife | Crimson Web",
         "quality": "Covert Knife\n\n",
@@ -6740,11 +6733,11 @@
         "skinurl": "https://csgostash.com/skin/293/Flip-Knife-Crimson-Web",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Fade": {
-        "name": "Flip Knife | Fade",
+    "Flip Knife | Rust Coat": {
+        "name": "Flip Knife | Rust Coat",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aa_fade_light_large.811f8e8af2e00675c047a9c1e9f04bbe5ace83b1.png",
-        "skinurl": "https://csgostash.com/skin/294/Flip-Knife-Fade",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_steel_knife_light_large.3be134e0b20c32442d7b508a2ec065af3c59ea89.png",
+        "skinurl": "https://csgostash.com/skin/533/Flip-Knife-Rust-Coat",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Slaughter": {
@@ -6752,6 +6745,13 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_zebra_light_large.55467fb65475d82c452bc96180d101ffd7e76192.png",
         "skinurl": "https://csgostash.com/skin/299/Flip-Knife-Slaughter",
+        "weapon": "Flip Knife"
+    },
+    "Flip Knife | Fade": {
+        "name": "Flip Knife | Fade",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aa_fade_light_large.811f8e8af2e00675c047a9c1e9f04bbe5ace83b1.png",
+        "skinurl": "https://csgostash.com/skin/294/Flip-Knife-Fade",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Case Hardened": {
@@ -6768,18 +6768,18 @@
         "skinurl": "https://csgostash.com/skin/290/Flip-Knife-Blue-Steel",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Urban Masked": {
-        "name": "Flip Knife | Urban Masked",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_tape_urban_light_large.bd1c04395ea024acb863acb628becf77edd4e4eb.png",
-        "skinurl": "https://csgostash.com/skin/301/Flip-Knife-Urban-Masked",
-        "weapon": "Flip Knife"
-    },
     "Flip Knife | Stained": {
         "name": "Flip Knife | Stained",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_forced_light_large.e9a6576a928a11fc3771b302f2b66539db29b503.png",
         "skinurl": "https://csgostash.com/skin/300/Flip-Knife-Stained",
+        "weapon": "Flip Knife"
+    },
+    "Flip Knife | Urban Masked": {
+        "name": "Flip Knife | Urban Masked",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_tape_urban_light_large.bd1c04395ea024acb863acb628becf77edd4e4eb.png",
+        "skinurl": "https://csgostash.com/skin/301/Flip-Knife-Urban-Masked",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Night": {
@@ -6789,13 +6789,6 @@
         "skinurl": "https://csgostash.com/skin/296/Flip-Knife-Night",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Forest DDPAT": {
-        "name": "Flip Knife | Forest DDPAT",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ddpat_light_large.882d1120e7e558969121902d618da80b88105c3a.png",
-        "skinurl": "https://csgostash.com/skin/295/Flip-Knife-Forest-DDPAT",
-        "weapon": "Flip Knife"
-    },
     "Flip Knife | Safari Mesh": {
         "name": "Flip Knife | Safari Mesh",
         "quality": "Covert Knife\n\n",
@@ -6803,11 +6796,11 @@
         "skinurl": "https://csgostash.com/skin/297/Flip-Knife-Safari-Mesh",
         "weapon": "Flip Knife"
     },
-    "Flip Knife | Scorched": {
-        "name": "Flip Knife | Scorched",
+    "Flip Knife | Forest DDPAT": {
+        "name": "Flip Knife | Forest DDPAT",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_dapple_light_large.fdfee11d1148f81582f438cf1fdf175717c71a0e.png",
-        "skinurl": "https://csgostash.com/skin/298/Flip-Knife-Scorched",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ddpat_light_large.882d1120e7e558969121902d618da80b88105c3a.png",
+        "skinurl": "https://csgostash.com/skin/295/Flip-Knife-Forest-DDPAT",
         "weapon": "Flip Knife"
     },
     "Flip Knife | Boreal Forest": {
@@ -6817,6 +6810,13 @@
         "skinurl": "https://csgostash.com/skin/291/Flip-Knife-Boreal-Forest",
         "weapon": "Flip Knife"
     },
+    "Flip Knife | Scorched": {
+        "name": "Flip Knife | Scorched",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_dapple_light_large.fdfee11d1148f81582f438cf1fdf175717c71a0e.png",
+        "skinurl": "https://csgostash.com/skin/298/Flip-Knife-Scorched",
+        "weapon": "Flip Knife"
+    },
     "Gut Knife | ★ (Vanilla)": {
         "name": "Gut Knife | ★ (Vanilla)",
         "quality": "Covert Knife\n\n",
@@ -6824,18 +6824,18 @@
         "skinurl": "https://csgostash.com/skin/276/Gut-Knife-Vanilla",
         "weapon": "Gut Knife"
     },
-    "Gut Knife | Autotronic": {
-        "name": "Gut Knife | Autotronic",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light_large.160e79d868da6ebb84c52e835aaf24ab9c6334f1.png",
-        "skinurl": "https://csgostash.com/skin/786/Gut-Knife-Autotronic",
-        "weapon": "Gut Knife"
-    },
     "Gut Knife | Lore": {
         "name": "Gut Knife | Lore",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_cu_gut_lore_light_large.5cf5a77978675bd3d276a86017e6d1fcacd7bf00.png",
         "skinurl": "https://csgostash.com/skin/771/Gut-Knife-Lore",
+        "weapon": "Gut Knife"
+    },
+    "Gut Knife | Autotronic": {
+        "name": "Gut Knife | Autotronic",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light_large.160e79d868da6ebb84c52e835aaf24ab9c6334f1.png",
+        "skinurl": "https://csgostash.com/skin/786/Gut-Knife-Autotronic",
         "weapon": "Gut Knife"
     },
     "Gut Knife | Gamma Doppler": {
@@ -6852,13 +6852,6 @@
         "skinurl": "https://csgostash.com/skin/776/Gut-Knife-Black-Laminate",
         "weapon": "Gut Knife"
     },
-    "Gut Knife | Bright Water": {
-        "name": "Gut Knife | Bright Water",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_ocean_knife_light_large.649f890d55e6ee2987e988e44a0f52e1a5020486.png",
-        "skinurl": "https://csgostash.com/skin/791/Gut-Knife-Bright-Water",
-        "weapon": "Gut Knife"
-    },
     "Gut Knife | Freehand": {
         "name": "Gut Knife | Freehand",
         "quality": "Covert Knife\n\n",
@@ -6866,11 +6859,11 @@
         "skinurl": "https://csgostash.com/skin/796/Gut-Knife-Freehand",
         "weapon": "Gut Knife"
     },
-    "Gut Knife | Ultraviolet": {
-        "name": "Gut Knife | Ultraviolet",
+    "Gut Knife | Bright Water": {
+        "name": "Gut Knife | Bright Water",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_so_purple_light_large.dbe6989416501166c43bd1cfb18ee835dbfa0ac7.png",
-        "skinurl": "https://csgostash.com/skin/528/Gut-Knife-Ultraviolet",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_ocean_knife_light_large.649f890d55e6ee2987e988e44a0f52e1a5020486.png",
+        "skinurl": "https://csgostash.com/skin/791/Gut-Knife-Bright-Water",
         "weapon": "Gut Knife"
     },
     "Gut Knife | Marble Fade": {
@@ -6901,6 +6894,20 @@
         "skinurl": "https://csgostash.com/skin/523/Gut-Knife-Damascus-Steel",
         "weapon": "Gut Knife"
     },
+    "Gut Knife | Ultraviolet": {
+        "name": "Gut Knife | Ultraviolet",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_so_purple_light_large.dbe6989416501166c43bd1cfb18ee835dbfa0ac7.png",
+        "skinurl": "https://csgostash.com/skin/528/Gut-Knife-Ultraviolet",
+        "weapon": "Gut Knife"
+    },
+    "Gut Knife | Fade": {
+        "name": "Gut Knife | Fade",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aa_fade_light_large.6e89c23706eafc34e7713c264fddeb94444a9b67.png",
+        "skinurl": "https://csgostash.com/skin/281/Gut-Knife-Fade",
+        "weapon": "Gut Knife"
+    },
     "Gut Knife | Rust Coat": {
         "name": "Gut Knife | Rust Coat",
         "quality": "Covert Knife\n\n",
@@ -6927,13 +6934,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_blued_light_large.0e40bb0e3eb5de3de1b925853e3e4ec755f9b65a.png",
         "skinurl": "https://csgostash.com/skin/277/Gut-Knife-Blue-Steel",
-        "weapon": "Gut Knife"
-    },
-    "Gut Knife | Fade": {
-        "name": "Gut Knife | Fade",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aa_fade_light_large.6e89c23706eafc34e7713c264fddeb94444a9b67.png",
-        "skinurl": "https://csgostash.com/skin/281/Gut-Knife-Fade",
         "weapon": "Gut Knife"
     },
     "Gut Knife | Case Hardened": {
@@ -7048,18 +7048,18 @@
         "skinurl": "https://csgostash.com/skin/377/Huntsman-Knife-Fade",
         "weapon": "Huntsman Knife"
     },
+    "Huntsman Knife | Blue Steel": {
+        "name": "Huntsman Knife | Blue Steel",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_blued_light_large.7c438b3c70933dd0e6b807a5690a777c3079843f.png",
+        "skinurl": "https://csgostash.com/skin/373/Huntsman-Knife-Blue-Steel",
+        "weapon": "Huntsman Knife"
+    },
     "Huntsman Knife | Case Hardened": {
         "name": "Huntsman Knife | Case Hardened",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_oiled_light_large.b43d1ca603f2c69764001a6b5f24f2856a6f0a65.png",
         "skinurl": "https://csgostash.com/skin/375/Huntsman-Knife-Case-Hardened",
-        "weapon": "Huntsman Knife"
-    },
-    "Huntsman Knife | Stained": {
-        "name": "Huntsman Knife | Stained",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_forced_light_large.ba0ab23cf7421f130454b3e1816eb3302b588712.png",
-        "skinurl": "https://csgostash.com/skin/383/Huntsman-Knife-Stained",
         "weapon": "Huntsman Knife"
     },
     "Huntsman Knife | Slaughter": {
@@ -7076,11 +7076,11 @@
         "skinurl": "https://csgostash.com/skin/376/Huntsman-Knife-Crimson-Web",
         "weapon": "Huntsman Knife"
     },
-    "Huntsman Knife | Blue Steel": {
-        "name": "Huntsman Knife | Blue Steel",
+    "Huntsman Knife | Scorched": {
+        "name": "Huntsman Knife | Scorched",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_blued_light_large.7c438b3c70933dd0e6b807a5690a777c3079843f.png",
-        "skinurl": "https://csgostash.com/skin/373/Huntsman-Knife-Blue-Steel",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_dapple_light_large.f1e2b1478299963ebdf9c822bfc6efbabc1ec1c8.png",
+        "skinurl": "https://csgostash.com/skin/381/Huntsman-Knife-Scorched",
         "weapon": "Huntsman Knife"
     },
     "Huntsman Knife | Night": {
@@ -7090,11 +7090,18 @@
         "skinurl": "https://csgostash.com/skin/379/Huntsman-Knife-Night",
         "weapon": "Huntsman Knife"
     },
-    "Huntsman Knife | Scorched": {
-        "name": "Huntsman Knife | Scorched",
+    "Huntsman Knife | Boreal Forest": {
+        "name": "Huntsman Knife | Boreal Forest",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_dapple_light_large.f1e2b1478299963ebdf9c822bfc6efbabc1ec1c8.png",
-        "skinurl": "https://csgostash.com/skin/381/Huntsman-Knife-Scorched",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_forest_boreal_light_large.b67d3d1910d57252f27749a5e275354a7447e8d3.png",
+        "skinurl": "https://csgostash.com/skin/374/Huntsman-Knife-Boreal-Forest",
+        "weapon": "Huntsman Knife"
+    },
+    "Huntsman Knife | Stained": {
+        "name": "Huntsman Knife | Stained",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_forced_light_large.ba0ab23cf7421f130454b3e1816eb3302b588712.png",
+        "skinurl": "https://csgostash.com/skin/383/Huntsman-Knife-Stained",
         "weapon": "Huntsman Knife"
     },
     "Huntsman Knife | Safari Mesh": {
@@ -7102,13 +7109,6 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_mesh_tan_light_large.314ea654cdba9c910a3872442245d2268be404cf.png",
         "skinurl": "https://csgostash.com/skin/380/Huntsman-Knife-Safari-Mesh",
-        "weapon": "Huntsman Knife"
-    },
-    "Huntsman Knife | Boreal Forest": {
-        "name": "Huntsman Knife | Boreal Forest",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_forest_boreal_light_large.b67d3d1910d57252f27749a5e275354a7447e8d3.png",
-        "skinurl": "https://csgostash.com/skin/374/Huntsman-Knife-Boreal-Forest",
         "weapon": "Huntsman Knife"
     },
     "Huntsman Knife | Forest DDPAT": {
@@ -7139,18 +7139,18 @@
         "skinurl": "https://csgostash.com/skin/773/M9-Bayonet-Lore",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Gamma Doppler": {
-        "name": "M9 Bayonet | Gamma Doppler",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light_large.4980cb2bb09e19a48a04ae19a0e6353426e81cce.png",
-        "skinurl": "https://csgostash.com/skin/783/M9-Bayonet-Gamma-Doppler",
-        "weapon": "M9 Bayonet"
-    },
     "M9 Bayonet | Autotronic": {
         "name": "M9 Bayonet | Autotronic",
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light_large.f81f68f78b0b40717602fc88f62b4d7af346c430.png",
         "skinurl": "https://csgostash.com/skin/788/M9-Bayonet-Autotronic",
+        "weapon": "M9 Bayonet"
+    },
+    "M9 Bayonet | Gamma Doppler": {
+        "name": "M9 Bayonet | Gamma Doppler",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light_large.4980cb2bb09e19a48a04ae19a0e6353426e81cce.png",
+        "skinurl": "https://csgostash.com/skin/783/M9-Bayonet-Gamma-Doppler",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Black Laminate": {
@@ -7181,13 +7181,6 @@
         "skinurl": "https://csgostash.com/skin/543/M9-Bayonet-Marble-Fade",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Doppler": {
-        "name": "M9 Bayonet | Doppler",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase1_light_large.1a9960a6bba1a82aeab00b0207b4ff7c423a1f06.png",
-        "skinurl": "https://csgostash.com/skin/542/M9-Bayonet-Doppler",
-        "weapon": "M9 Bayonet"
-    },
     "M9 Bayonet | Tiger Tooth": {
         "name": "M9 Bayonet | Tiger Tooth",
         "quality": "Covert Knife\n\n",
@@ -7195,11 +7188,11 @@
         "skinurl": "https://csgostash.com/skin/544/M9-Bayonet-Tiger-Tooth",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Ultraviolet": {
-        "name": "M9 Bayonet | Ultraviolet",
+    "M9 Bayonet | Doppler": {
+        "name": "M9 Bayonet | Doppler",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_so_purple_light_large.5ca833ab51b7a972d9b5bb7792c88957a69c4b4c.png",
-        "skinurl": "https://csgostash.com/skin/546/M9-Bayonet-Ultraviolet",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase1_light_large.1a9960a6bba1a82aeab00b0207b4ff7c423a1f06.png",
+        "skinurl": "https://csgostash.com/skin/542/M9-Bayonet-Doppler",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Rust Coat": {
@@ -7216,25 +7209,11 @@
         "skinurl": "https://csgostash.com/skin/541/M9-Bayonet-Damascus-Steel",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Slaughter": {
-        "name": "M9 Bayonet | Slaughter",
+    "M9 Bayonet | Ultraviolet": {
+        "name": "M9 Bayonet | Ultraviolet",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light_large.53f9641b2b66b6587f779e5f222cc98a48489a1e.png",
-        "skinurl": "https://csgostash.com/skin/325/M9-Bayonet-Slaughter",
-        "weapon": "M9 Bayonet"
-    },
-    "M9 Bayonet | Fade": {
-        "name": "M9 Bayonet | Fade",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light_large.66027f3a763a8b0a89895f3bdd55485d21d8dcda.png",
-        "skinurl": "https://csgostash.com/skin/320/M9-Bayonet-Fade",
-        "weapon": "M9 Bayonet"
-    },
-    "M9 Bayonet | Case Hardened": {
-        "name": "M9 Bayonet | Case Hardened",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light_large.75bfecf8e9073c05ba21251889b8d49889f90669.png",
-        "skinurl": "https://csgostash.com/skin/318/M9-Bayonet-Case-Hardened",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_so_purple_light_large.5ca833ab51b7a972d9b5bb7792c88957a69c4b4c.png",
+        "skinurl": "https://csgostash.com/skin/546/M9-Bayonet-Ultraviolet",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Crimson Web": {
@@ -7244,25 +7223,25 @@
         "skinurl": "https://csgostash.com/skin/319/M9-Bayonet-Crimson-Web",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Blue Steel": {
-        "name": "M9 Bayonet | Blue Steel",
+    "M9 Bayonet | Fade": {
+        "name": "M9 Bayonet | Fade",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_blued_light_large.cf1eae5b0d42c0c265ee77addcd1207eba7a8a4b.png",
-        "skinurl": "https://csgostash.com/skin/316/M9-Bayonet-Blue-Steel",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light_large.66027f3a763a8b0a89895f3bdd55485d21d8dcda.png",
+        "skinurl": "https://csgostash.com/skin/320/M9-Bayonet-Fade",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Stained": {
-        "name": "M9 Bayonet | Stained",
+    "M9 Bayonet | Slaughter": {
+        "name": "M9 Bayonet | Slaughter",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_forced_light_large.e409b18452030f3efa41178b439556d6f067fa52.png",
-        "skinurl": "https://csgostash.com/skin/326/M9-Bayonet-Stained",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light_large.53f9641b2b66b6587f779e5f222cc98a48489a1e.png",
+        "skinurl": "https://csgostash.com/skin/325/M9-Bayonet-Slaughter",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Boreal Forest": {
-        "name": "M9 Bayonet | Boreal Forest",
+    "M9 Bayonet | Case Hardened": {
+        "name": "M9 Bayonet | Case Hardened",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_forest_boreal_light_large.074a7a96a875a57e6ad16e8a678245f23e7d46bb.png",
-        "skinurl": "https://csgostash.com/skin/317/M9-Bayonet-Boreal-Forest",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light_large.75bfecf8e9073c05ba21251889b8d49889f90669.png",
+        "skinurl": "https://csgostash.com/skin/318/M9-Bayonet-Case-Hardened",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Night": {
@@ -7272,18 +7251,18 @@
         "skinurl": "https://csgostash.com/skin/322/M9-Bayonet-Night",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Scorched": {
-        "name": "M9 Bayonet | Scorched",
+    "M9 Bayonet | Blue Steel": {
+        "name": "M9 Bayonet | Blue Steel",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_dapple_light_large.b810fef46499697606ff2c70139805beb784c5ae.png",
-        "skinurl": "https://csgostash.com/skin/324/M9-Bayonet-Scorched",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_blued_light_large.cf1eae5b0d42c0c265ee77addcd1207eba7a8a4b.png",
+        "skinurl": "https://csgostash.com/skin/316/M9-Bayonet-Blue-Steel",
         "weapon": "M9 Bayonet"
     },
-    "M9 Bayonet | Forest DDPAT": {
-        "name": "M9 Bayonet | Forest DDPAT",
+    "M9 Bayonet | Boreal Forest": {
+        "name": "M9 Bayonet | Boreal Forest",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_ddpat_light_large.1f511e46981a71dc67aec2904af5c7a39de52268.png",
-        "skinurl": "https://csgostash.com/skin/321/M9-Bayonet-Forest-DDPAT",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_forest_boreal_light_large.074a7a96a875a57e6ad16e8a678245f23e7d46bb.png",
+        "skinurl": "https://csgostash.com/skin/317/M9-Bayonet-Boreal-Forest",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Urban Masked": {
@@ -7291,6 +7270,27 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_tape_urban_light_large.b940d9da196a99dfa10f08a89c6d2843b5844fef.png",
         "skinurl": "https://csgostash.com/skin/327/M9-Bayonet-Urban-Masked",
+        "weapon": "M9 Bayonet"
+    },
+    "M9 Bayonet | Scorched": {
+        "name": "M9 Bayonet | Scorched",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_dapple_light_large.b810fef46499697606ff2c70139805beb784c5ae.png",
+        "skinurl": "https://csgostash.com/skin/324/M9-Bayonet-Scorched",
+        "weapon": "M9 Bayonet"
+    },
+    "M9 Bayonet | Stained": {
+        "name": "M9 Bayonet | Stained",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_forced_light_large.e409b18452030f3efa41178b439556d6f067fa52.png",
+        "skinurl": "https://csgostash.com/skin/326/M9-Bayonet-Stained",
+        "weapon": "M9 Bayonet"
+    },
+    "M9 Bayonet | Forest DDPAT": {
+        "name": "M9 Bayonet | Forest DDPAT",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_ddpat_light_large.1f511e46981a71dc67aec2904af5c7a39de52268.png",
+        "skinurl": "https://csgostash.com/skin/321/M9-Bayonet-Forest-DDPAT",
         "weapon": "M9 Bayonet"
     },
     "M9 Bayonet | Safari Mesh": {
@@ -7363,11 +7363,11 @@
         "skinurl": "https://csgostash.com/skin/664/Shadow-Daggers-Fade",
         "weapon": "Shadow Daggers"
     },
-    "Shadow Daggers | Case Hardened": {
-        "name": "Shadow Daggers | Case Hardened",
+    "Shadow Daggers | Slaughter": {
+        "name": "Shadow Daggers | Slaughter",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_oiled_light_large.cbcb75a234d66325b56318abcf1d1cc8ebe7b893.png",
-        "skinurl": "https://csgostash.com/skin/662/Shadow-Daggers-Case-Hardened",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_zebra_light_large.a09a6cf348b102f80e87226cc71d03544e502703.png",
+        "skinurl": "https://csgostash.com/skin/669/Shadow-Daggers-Slaughter",
         "weapon": "Shadow Daggers"
     },
     "Shadow Daggers | Crimson Web": {
@@ -7377,11 +7377,11 @@
         "skinurl": "https://csgostash.com/skin/663/Shadow-Daggers-Crimson-Web",
         "weapon": "Shadow Daggers"
     },
-    "Shadow Daggers | Slaughter": {
-        "name": "Shadow Daggers | Slaughter",
+    "Shadow Daggers | Case Hardened": {
+        "name": "Shadow Daggers | Case Hardened",
         "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_zebra_light_large.a09a6cf348b102f80e87226cc71d03544e502703.png",
-        "skinurl": "https://csgostash.com/skin/669/Shadow-Daggers-Slaughter",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_oiled_light_large.cbcb75a234d66325b56318abcf1d1cc8ebe7b893.png",
+        "skinurl": "https://csgostash.com/skin/662/Shadow-Daggers-Case-Hardened",
         "weapon": "Shadow Daggers"
     },
     "Shadow Daggers | Blue Steel": {
@@ -7398,13 +7398,6 @@
         "skinurl": "https://csgostash.com/skin/671/Shadow-Daggers-Urban-Masked",
         "weapon": "Shadow Daggers"
     },
-    "Shadow Daggers | Boreal Forest": {
-        "name": "Shadow Daggers | Boreal Forest",
-        "quality": "Covert Knife\n\n",
-        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_forest_boreal_light_large.81e69f4bcf6d0cd60f909a0b6722e8bc12b982ca.png",
-        "skinurl": "https://csgostash.com/skin/661/Shadow-Daggers-Boreal-Forest",
-        "weapon": "Shadow Daggers"
-    },
     "Shadow Daggers | Stained": {
         "name": "Shadow Daggers | Stained",
         "quality": "Covert Knife\n\n",
@@ -7417,6 +7410,13 @@
         "quality": "Covert Knife\n\n",
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_dapple_light_large.2f7cde55a22c5cd038bceb38533f5397a9fc8252.png",
         "skinurl": "https://csgostash.com/skin/668/Shadow-Daggers-Scorched",
+        "weapon": "Shadow Daggers"
+    },
+    "Shadow Daggers | Boreal Forest": {
+        "name": "Shadow Daggers | Boreal Forest",
+        "quality": "Covert Knife\n\n",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_forest_boreal_light_large.81e69f4bcf6d0cd60f909a0b6722e8bc12b982ca.png",
+        "skinurl": "https://csgostash.com/skin/661/Shadow-Daggers-Boreal-Forest",
         "weapon": "Shadow Daggers"
     },
     "Shadow Daggers | Forest DDPAT": {
@@ -7432,5 +7432,341 @@
         "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_mesh_tan_light_large.b6b390c3652c2bc1c074cd23b3ca921bf9870b4b.png",
         "skinurl": "https://csgostash.com/skin/667/Shadow-Daggers-Safari-Mesh",
         "weapon": "Shadow Daggers"
+    },
+    "Sport Gloves | Vice": {
+        "name": "Sport Gloves | Vice",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_blue_pink_light_large.0da7dccfde04268a4289ad4b6c00a23a124a624e.png",
+        "skinurl": "https://csgostash.com/glove/39/Sport-Gloves-Vice",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Cobalt Skulls": {
+        "name": "Hand Wraps | Cobalt Skulls",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light_large.51e28cc44ce70fd4ed719326a06f4cb0ef3808b5.png",
+        "skinurl": "https://csgostash.com/glove/36/Hand-Wraps-Cobalt-Skulls",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Fade": {
+        "name": "Specialist Gloves | Fade",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_fade_light_large.93080c3004ae36aa520d87fd0ceb04463298453c.png",
+        "skinurl": "https://csgostash.com/glove/44/Specialist-Gloves-Fade",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Amphibious": {
+        "name": "Sport Gloves | Amphibious",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_poison_frog_blue_white_light_large.cc4489cbac59f82ddb18c9a331a98bfd40627ee2.png",
+        "skinurl": "https://csgostash.com/glove/38/Sport-Gloves-Amphibious",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Bronze Morph": {
+        "name": "Sport Gloves | Bronze Morph",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light_large.12893b922fb8f2dc1d1eecf01bf628642874e937.png",
+        "skinurl": "https://csgostash.com/glove/37/Sport-Gloves-Bronze-Morph",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Crimson Web": {
+        "name": "Specialist Gloves | Crimson Web",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_webs_red_light_large.f98d18b4fe7ad7e5dec69a61f2c82631a44e4c52.png",
+        "skinurl": "https://csgostash.com/glove/43/Specialist-Gloves-Crimson-Web",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Overprint": {
+        "name": "Hand Wraps | Overprint",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_geometric_blue_light_large.a353dde9306d9be1eafd84331b0bf120142b692f.png",
+        "skinurl": "https://csgostash.com/glove/35/Hand-Wraps-Overprint",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Mogul": {
+        "name": "Specialist Gloves | Mogul",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_winterhex_light_large.2b5d5ec0b5388beef874b932a8f9c053360ae7dc.png",
+        "skinurl": "https://csgostash.com/glove/42/Specialist-Gloves-Mogul",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | King Snake": {
+        "name": "Driver Gloves | King Snake",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_snakeskin_white_light_large.f6a54c7a3cf91ecbe0a712bb2126bfe77f86825e.png",
+        "skinurl": "https://csgostash.com/glove/28/Driver-Gloves-King-Snake",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | POW!": {
+        "name": "Moto Gloves | POW!",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light_large.37abd7be1296fa17815f7b41a7d063e45b343cab.png",
+        "skinurl": "https://csgostash.com/glove/32/Moto-Gloves-POW!",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Imperial Plaid": {
+        "name": "Driver Gloves | Imperial Plaid",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_plaid_purple_light_large.0315b76daffb839e03a9e543dc0d4a3abe716922.png",
+        "skinurl": "https://csgostash.com/glove/27/Driver-Gloves-Imperial-Plaid",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Omega": {
+        "name": "Sport Gloves | Omega",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_black_webbing_yellow_light_large.5d7b101eb7875c41cff58e0fa0c08a49f7303b50.png",
+        "skinurl": "https://csgostash.com/glove/40/Sport-Gloves-Omega",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Polygon": {
+        "name": "Moto Gloves | Polygon",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_trigrid_blue_light_large.5e8f353a222f45406ab0b60e0d68d669953f0e20.png",
+        "skinurl": "https://csgostash.com/glove/29/Moto-Gloves-Polygon",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Turtle": {
+        "name": "Moto Gloves | Turtle",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_basic_green_orange_light_large.3e58353974e92bb56f218bb93b4fa77b0639e498.png",
+        "skinurl": "https://csgostash.com/glove/31/Moto-Gloves-Turtle",
+        "weapon": "Gloves"
+    },
+    "Hydra Gloves | Mangrove": {
+        "name": "Hydra Gloves | Mangrove",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_green_leather_mesh_brass_light_large.d960afafd988b76ad2ffc2e77e306a35e01f02ca.png",
+        "skinurl": "https://csgostash.com/glove/45/Hydra-Gloves-Mangrove",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Duct Tape": {
+        "name": "Hand Wraps | Duct Tape",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light_large.b18975cd28aee7645dbfd86009884358664e1aa5.png",
+        "skinurl": "https://csgostash.com/glove/34/Hand-Wraps-Duct-Tape",
+        "weapon": "Gloves"
+    },
+    "Hydra Gloves | Case Hardened": {
+        "name": "Hydra Gloves | Case Hardened",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light_large.611be49c3a2f37057a7740c8ad74cc818f688b3d.png",
+        "skinurl": "https://csgostash.com/glove/48/Hydra-Gloves-Case-Hardened",
+        "weapon": "Gloves"
+    },
+    "Hydra Gloves | Emerald": {
+        "name": "Hydra Gloves | Emerald",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_black_green_light_large.16bbb88e6be97ca92f5227a59d3f76560fccaf80.png",
+        "skinurl": "https://csgostash.com/glove/47/Hydra-Gloves-Emerald",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Overtake": {
+        "name": "Driver Gloves | Overtake",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_stitched_black_orange_light_large.6cd14c51b9f239f57cf20603a13a8f9b7efb42ed.png",
+        "skinurl": "https://csgostash.com/glove/26/Driver-Gloves-Overtake",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Arboreal": {
+        "name": "Hand Wraps | Arboreal",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_green_camo_light_large.2b510ab7fcfd5837f239f378b03216cc3bcf6e3c.png",
+        "skinurl": "https://csgostash.com/glove/33/Hand-Wraps-Arboreal",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Transport": {
+        "name": "Moto Gloves | Transport",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_yellow_camo_light_large.7ed261be20f42153198256faa761bb0b820b2ef9.png",
+        "skinurl": "https://csgostash.com/glove/30/Moto-Gloves-Transport",
+        "weapon": "Gloves"
+    },
+    "Hydra Gloves | Rattler": {
+        "name": "Hydra Gloves | Rattler",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_snakeskin_brass_light_large.953e703a64d078c26bf8075c3b5a8525d91ce74e.png",
+        "skinurl": "https://csgostash.com/glove/46/Hydra-Gloves-Rattler",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Buckshot": {
+        "name": "Specialist Gloves | Buckshot",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_forest_brown_light_large.9006b6eb926c084698116f2c534c963a2f8fccec.png",
+        "skinurl": "https://csgostash.com/glove/41/Specialist-Gloves-Buckshot",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Racing Green": {
+        "name": "Driver Gloves | Racing Green",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_stitched_green_grey_light_large.808fca3933fe16b20eb0cc26bd78fbbc47988dad.png",
+        "skinurl": "https://csgostash.com/glove/25/Driver-Gloves-Racing-Green",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Pandora's Box": {
+        "name": "Sport Gloves | Pandora's Box",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_purple_light_large.56ae5ad710e069f040d86caa5fac952fd35dbe48.png",
+        "skinurl": "https://csgostash.com/glove/8/Sport-Gloves-Pandoras-Box",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Crimson Kimono": {
+        "name": "Specialist Gloves | Crimson Kimono",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_kimono_diamonds_red_light_large.902d894626b290f6f0ae3867e216845519777498.png",
+        "skinurl": "https://csgostash.com/glove/23/Specialist-Gloves-Crimson-Kimono",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Superconductor": {
+        "name": "Sport Gloves | Superconductor",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_light_blue_light_large.ad70bb6b45be4dd9fefb19dea2819fba270b7022.png",
+        "skinurl": "https://csgostash.com/glove/6/Sport-Gloves-Superconductor",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Hedge Maze": {
+        "name": "Sport Gloves | Hedge Maze",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_green_light_large.356ff62954a4dc34cd1fe2e39e70fbb3a3468063.png",
+        "skinurl": "https://csgostash.com/glove/5/Sport-Gloves-Hedge-Maze",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Slaughter": {
+        "name": "Hand Wraps | Slaughter",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_red_slaughter_light_large.98f0b6ff0cb2fa356b57fe42d317549bea92978b.png",
+        "skinurl": "https://csgostash.com/glove/16/Hand-Wraps-Slaughter",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Crimson Weave": {
+        "name": "Driver Gloves | Crimson Weave",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_red_light_large.137455fd6486c53fef15a523f86e2928743de97e.png",
+        "skinurl": "https://csgostash.com/glove/11/Driver-Gloves-Crimson-Weave",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Emerald Web": {
+        "name": "Specialist Gloves | Emerald Web",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_emerald_web_light_large.0ac5fb6e5faf01860ba42d0c3378369d206d6d06.png",
+        "skinurl": "https://csgostash.com/glove/22/Specialist-Gloves-Emerald-Web",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Badlands": {
+        "name": "Hand Wraps | Badlands",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light_large.f8453c60f74a846bd3c05310de4f004cd95a1aa2.png",
+        "skinurl": "https://csgostash.com/glove/14/Hand-Wraps-Badlands",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Spearmint": {
+        "name": "Moto Gloves | Spearmint",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_mint_triangle_light_large.db023ffa169740fdcdfed112bdde36367f732c12.png",
+        "skinurl": "https://csgostash.com/glove/18/Moto-Gloves-Spearmint",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Cool Mint": {
+        "name": "Moto Gloves | Cool Mint",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light_large.0fd19089bab85024b9458d7865e215d7d017fd84.png",
+        "skinurl": "https://csgostash.com/glove/20/Moto-Gloves-Cool-Mint",
+        "weapon": "Gloves"
+    },
+    "Bloodhound Gloves | Guerrilla": {
+        "name": "Bloodhound Gloves | Guerrilla",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_guerrilla_light_large.3afeaecd54a38013c2efd2ff3086aad6b52aceb4.png",
+        "skinurl": "https://csgostash.com/glove/2/Bloodhound-Gloves-Guerrilla",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Foundation": {
+        "name": "Specialist Gloves | Foundation",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_orange_white_light_large.7eeb02d84b30e312f32d56add0dc6263e5f027c2.png",
+        "skinurl": "https://csgostash.com/glove/24/Specialist-Gloves-Foundation",
+        "weapon": "Gloves"
+    },
+    "Sport Gloves | Arid": {
+        "name": "Sport Gloves | Arid",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_military_light_large.416a571deb198035e693ca74de172ad22ad18809.png",
+        "skinurl": "https://csgostash.com/glove/7/Sport-Gloves-Arid",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Boom!": {
+        "name": "Moto Gloves | Boom!",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_mono_boom_light_large.eff642bda7ceca11d5783b495442fd6ae1c3333d.png",
+        "skinurl": "https://csgostash.com/glove/19/Moto-Gloves-Boom!",
+        "weapon": "Gloves"
+    },
+    "Bloodhound Gloves | Charred": {
+        "name": "Bloodhound Gloves | Charred",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.36a1f3b18c240487ae6aba735429754c706aca70.png",
+        "skinurl": "https://csgostash.com/glove/1/Bloodhound-Gloves-Charred",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Diamondback": {
+        "name": "Driver Gloves | Diamondback",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_snakeskin_yellow_light_large.017f2c7fab2cecceb4444c05c80fa238f46264e0.png",
+        "skinurl": "https://csgostash.com/glove/12/Driver-Gloves-Diamondback",
+        "weapon": "Gloves"
+    },
+    "Moto Gloves | Eclipse": {
+        "name": "Moto Gloves | Eclipse",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light_large.9a849bc145404258c8961449980d893ba9eff27e.png",
+        "skinurl": "https://csgostash.com/glove/17/Moto-Gloves-Eclipse",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Spruce DDPAT": {
+        "name": "Hand Wraps | Spruce DDPAT",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_camo_grey_light_large.04557b1a8d68bccdd60b18521346091328756ded.png",
+        "skinurl": "https://csgostash.com/glove/13/Hand-Wraps-Spruce-DDPAT",
+        "weapon": "Gloves"
+    },
+    "Bloodhound Gloves | Snakebite": {
+        "name": "Bloodhound Gloves | Snakebite",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_snakeskin_brass_light_large.7e478dfcfe8c89cf4f4651ee547bb1b0ed0f05f9.png",
+        "skinurl": "https://csgostash.com/glove/4/Bloodhound-Gloves-Snakebite",
+        "weapon": "Gloves"
+    },
+    "Bloodhound Gloves | Bronzed": {
+        "name": "Bloodhound Gloves | Bronzed",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_metallic_light_large.5a09f347d9be3d3552bd3dd6abba816e5bf1b349.png",
+        "skinurl": "https://csgostash.com/glove/3/Bloodhound-Gloves-Bronzed",
+        "weapon": "Gloves"
+    },
+    "Hand Wraps | Leather": {
+        "name": "Hand Wraps | Leather",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_light_large.a5f11c43b3d6f4958dc880a4f9986f0728bcfd3c.png",
+        "skinurl": "https://csgostash.com/glove/15/Hand-Wraps-Leather",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Lunar Weave": {
+        "name": "Driver Gloves | Lunar Weave",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_black_light_large.1a38e5968c549d49e791cf55bc4f89232e19e26f.png",
+        "skinurl": "https://csgostash.com/glove/9/Driver-Gloves-Lunar-Weave",
+        "weapon": "Gloves"
+    },
+    "Specialist Gloves | Forest DDPAT": {
+        "name": "Specialist Gloves | Forest DDPAT",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_ddpat_green_camo_light_large.d9d3da7700117b222fd713f7f3bcd570e314c63d.png",
+        "skinurl": "https://csgostash.com/glove/21/Specialist-Gloves-Forest-DDPAT",
+        "weapon": "Gloves"
+    },
+    "Driver Gloves | Convoy": {
+        "name": "Driver Gloves | Convoy",
+        "quality": "Extraordinary Gloves",
+        "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_military_light_large.8da6c198b3bfb8a70f63bbd99a02ce8fc09c9a95.png",
+        "skinurl": "https://csgostash.com/glove/10/Driver-Gloves-Convoy",
+        "weapon": "Gloves"
     }
 }
