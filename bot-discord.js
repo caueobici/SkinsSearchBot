@@ -135,7 +135,7 @@ function sendMessage(channel) {
 
     description += 'Quality: ' + skinObj.quality.replace('\n', '') + '\n';
 
-    if (skinObj.quality != 'Covert Knife\n\n') {
+    if (skinObj.quality != 'Covert Knife\n\n' & skinObj.quality != "Extraordinary Gloves") {
         description += 'Weapon: ' + skinObj.weapon + '\n';
         if (skinObj.quality.search('Covert') >= 0) {
             color = 0xeb4b4b;
