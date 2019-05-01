@@ -51,6 +51,22 @@ function getPrices($, channel, skinObj) {
             }
 
             let price = $(this).find('.pull-right').text()
+            
+            let index = name.toLowerCase().search('souvenir');
+
+            if (index >= 0){
+                let final_name = '';
+                let ar = false;
+                for (var i; i < name.length; i++){
+                    if (index >= i <= index + 8){
+                        final_name += name[i];
+                    }
+                    else if (!ar) {
+                        final_name += 'Souvenir '
+                    }
+                }
+                name = final_name;
+            }
 
             description += name + ': ' + price + '\n';
         
@@ -58,7 +74,7 @@ function getPrices($, channel, skinObj) {
 
     });
 
-    sendEmbed(channel, skinObj)
+    sendEmbed(channel, skinObj);
 }
 
 function size(object) {
@@ -99,9 +115,7 @@ function getSkin(skin_name, channel) {
             }
         }
 
-        for (var k = 0; k < errors; k++) {
-            rel -= skin_words.length / rel;
-        }
+        rel -= errors/skin_words.length/rel;
 
         if (rel > relevance & rel != 0) {
             relevance = rel;
