@@ -151,4 +151,8 @@ function addJson() {
     console.log(errors);
 }
 
+<<<<<<< HEAD
 interval = setInterval(getSkins, 3500);
+=======
+interval = setInterval(getSkins, 3000);
+>>>>>>> b246d495d74345a7bc7edae99d90bc7da8121b22
