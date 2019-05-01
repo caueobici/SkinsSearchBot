@@ -55,21 +55,11 @@ function getPrices($, channel, skinObj) {
             let index = name.toLowerCase().search('souvenir');
 
             if (index >= 0){
-                let final_name = '';
-                let ar = false;
-                for (var i; i < name.length; i++){
-                    if (index >= i <= index + 8){
-                        final_name += name[i];
-                    }
-                    else if (!ar) {
-                        final_name += 'Souvenir '
-                    }
-                }
-                name = final_name;
+                name = name.replace('Souvenir', 'Souvenir ')
             }
 
             description += name + ': ' + price + '\n';
-        
+            
         }
 
     });
