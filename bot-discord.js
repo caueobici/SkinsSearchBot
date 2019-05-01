@@ -127,7 +127,8 @@ function sendMessage(channel) {
         return null;
     }
     else if (final.length == 0){
-        channel.send("No skin found\nTry to search for it again")
+        channel.send("No skin found\nTry to search for it again");
+        return null;
     }
 
     else{
