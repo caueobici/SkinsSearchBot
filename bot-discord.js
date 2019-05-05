@@ -77,8 +77,7 @@ function getPrices($, channel, skinObj, currency1) {
 
             if (money_index >= 0 & currency1 != 'USD'){
                 
-                let spacei = price.search('$');
-                let dollar = price.slice(spacei + 1, price.length);
+                let dollar = price.slice(money_index + 1, price.length);
                 dollar = dollar.replace('.', '');
                 dollar = dollar.replace(',', '.');
                 dollar = parseInt(dollar);
