@@ -88,8 +88,6 @@ function getPrices($, channel, skinObj, currency1) {
                 
                 let value = dollar * euro * currency_value;
 
-                value = value.toFixed(2);
-
                 price = symbols[currency1] + ' ' + value;
                 
             }
