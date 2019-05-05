@@ -9,7 +9,6 @@ const skins = JSON.parse(fs.readFileSync('skins.json'));
 const guns = { 'ak-47': ['ak47', 'ak-47', 'ak 47', 'ak'], 'm4a4': ['m4a4', 'm4'], 'm4a1-s': ['m4a1', 'm4', 'm4a1s', 'm4a1 s', 'm4a1-s'], 'desert eagle': ['deagle', 'desert eagle', 'desert-eagle'], 'usp-s': ['usp', 'usp-s', 'usp s'], 'p2000': ['p2000'], 'glock-18': ['glock', 'glock 18', 'glock18', 'glock-18'], 'cz75-auto': ['cz', 'cz75', 'cz75auto', 'cz-75', 'cz75-auto', 'cz 75', 'cz75 auto', 'cz 75 auto'], 'dual berettas': ['dual beretas', 'dual berettas', 'berettas duplas', 'beretas duplas'], 'r8 revolver': ['r8', 'revolver', 'r8 revolver', 'r8-revolver'], 'p250': ['p250'], 'tec-9': ['tec9', 'tec 9', 'tec', 'tec-9'], 'five-seven': ['five seven', 'five-seven', 'fiveseven', '57'], 'nova': ['nova'], 'xm1014': ['xm1014', 'xm'], 'mag-7': ['mag 7', 'mag7', 'mag-7'], 'sawed-off': ['sawed off', 'sawed-off'], 'negev': ['negev'], 'm249': ['m249'], 'galil ar': ['galil ar', 'galil', 'galil-ar'], 'famas': ['famas'], 'ssg 08': ['ssg', 'ssg 08', 'ssg-08', 'ssg08', 'scout'], 'sg 553': ['sg553', 'sg-553', 'sg 553', 'sg'], 'aug': ['aug'], 'awp': ['awp'], 'g3sg1': ['g3', 'g3sg1'], 'scar-20': ['scar', 'scar 20', 'scar-20'], 'pp-bizon': ['pp-bizon', 'pp bizon', 'bizon'], 'mp7': ['mp7'], 'mp5-sd': ['mp5', 'mp5sd', 'mp5 sd', 'mp5-sd'], 'ump-45': ['ump', 'ump45', 'ump 45', 'ump-45'], 'mp9': ['mp9'], 'mac-10': ['mac10', 'mac 10', 'mac-10'], 'p90': ['p90', 'p 90', 'p-90'], 'gloves': ['glove', 'gloves']};
 const symbols = JSON.parse(fs.readFileSync('symbols.json'));
 
-
 let skin;
 let skinObj;
 let relevance;
@@ -53,6 +52,7 @@ function getLink(url, channel, skinObj, currency1) {
 function getPrices($, channel, skinObj, currency1) {
     souvenir = "Unavaiable";
     st = "Unavaiable";
+    let value;
 
     $('#prices div.btn-group-sm.btn-group-justified').each(async function (index1, element1) {
         if (index1 == 0) {
@@ -77,16 +77,15 @@ function getPrices($, channel, skinObj, currency1) {
 
             if (money_index >= 0 & currency1 != 'USD'){
                 let dollar = price.slice(money_index + 1, price.length);
-                channel.send(dollar)
                 dollar = dollar.replace('.', '');
                 dollar = dollar.replace(',', '.');
-                dollar = parseInt(dollar);
+                dollar = parseFloat(dollar);
 
                 if (!currencies){
                     getValue(currency1);
                 }
                 
-                let value = dollar * euro * currency_value;
+                value = dollar * euro * currency_value;
 
                 value = value.toFixed(2);
 
