@@ -76,8 +76,8 @@ function getPrices($, channel, skinObj, currency1) {
             let money_index = price.indexOf('$');
 
             if (money_index >= 0 & currency1 != 'USD'){
-                
                 let dollar = price.slice(money_index + 1, price.length);
+                channel.send(dollar)
                 dollar = dollar.replace('.', '');
                 dollar = dollar.replace(',', '.');
                 dollar = parseInt(dollar);
@@ -87,6 +87,8 @@ function getPrices($, channel, skinObj, currency1) {
                 }
                 
                 let value = dollar * euro * currency_value;
+
+                value = value.toFixed(2);
 
                 price = symbols[currency1] + ' ' + value;
                 
