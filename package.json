@@ -8,7 +8,10 @@
         "cheerio": "^1.0.0-rc.3",
         "discord.io": "^2.5.3",
         "discord.js": "^11.4.2",
+        "easytimer": "^1.1.1",
+        "easytimer.js": "git+https://github.com/albert-gonzalez/easytimer.js.git",
         "fs": "0.0.1-security",
+        "money": "^0.2.0",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
         "winston": "^3.2.1"

@@ -2,10 +2,13 @@ const cheer = require('cheerio');
 const rp = require('request-promise');
 const fs = require('fs');
 const Discord = require('discord.js');
+
 const token = JSON.parse(fs.readFileSync('auth.json'))["token"];
 const client = new Discord.Client();
 const skins = JSON.parse(fs.readFileSync('skins.json'));
 const guns = { 'ak-47': ['ak47', 'ak-47', 'ak 47', 'ak'], 'm4a4': ['m4a4', 'm4'], 'm4a1-s': ['m4a1', 'm4', 'm4a1s', 'm4a1 s', 'm4a1-s'], 'desert eagle': ['deagle', 'desert eagle', 'desert-eagle'], 'usp-s': ['usp', 'usp-s', 'usp s'], 'p2000': ['p2000'], 'glock-18': ['glock', 'glock 18', 'glock18', 'glock-18'], 'cz75-auto': ['cz', 'cz75', 'cz75auto', 'cz-75', 'cz75-auto', 'cz 75', 'cz75 auto', 'cz 75 auto'], 'dual berettas': ['dual beretas', 'dual berettas', 'berettas duplas', 'beretas duplas'], 'r8 revolver': ['r8', 'revolver', 'r8 revolver', 'r8-revolver'], 'p250': ['p250'], 'tec-9': ['tec9', 'tec 9', 'tec', 'tec-9'], 'five-seven': ['five seven', 'five-seven', 'fiveseven', '57'], 'nova': ['nova'], 'xm1014': ['xm1014', 'xm'], 'mag-7': ['mag 7', 'mag7', 'mag-7'], 'sawed-off': ['sawed off', 'sawed-off'], 'negev': ['negev'], 'm249': ['m249'], 'galil ar': ['galil ar', 'galil', 'galil-ar'], 'famas': ['famas'], 'ssg 08': ['ssg', 'ssg 08', 'ssg-08', 'ssg08', 'scout'], 'sg 553': ['sg553', 'sg-553', 'sg 553', 'sg'], 'aug': ['aug'], 'awp': ['awp'], 'g3sg1': ['g3', 'g3sg1'], 'scar-20': ['scar', 'scar 20', 'scar-20'], 'pp-bizon': ['pp-bizon', 'pp bizon', 'bizon'], 'mp7': ['mp7'], 'mp5-sd': ['mp5', 'mp5sd', 'mp5 sd', 'mp5-sd'], 'ump-45': ['ump', 'ump45', 'ump 45', 'ump-45'], 'mp9': ['mp9'], 'mac-10': ['mac10', 'mac 10', 'mac-10'], 'p90': ['p90', 'p 90', 'p-90'], 'gloves': ['glove', 'gloves']};
+const symbols = JSON.parse(fs.readFileSync('symbols.json'));
+
 
 let skin;
 let skinObj;
@@ -19,43 +22,86 @@ let description;
 let options;
 let embed;
 let color;
+let st;
+let souvenir;
+let currency = JSON.parse(fs.readFileSync('server-currency.json'));
+let euro;
+let currencies = undefined;
+let currency_value;
 
-function getLink(skin_url, channel, skinObj) {
+function getValue(currency1){
+    currencies = JSON.parse(fs.readFileSync('currencies.json'));
+    euro = 1/currencies['rates']['USD'];
+
+    currency_value = currencies['rates'][currency1];
+}
+
+function getLink(url, channel, skinObj, currency1) {
     options = {
-        uri: skin_url,
+        uri: url,
         transform: function (body) {
             return cheer.load(body)
         }
     }
 
     rp(options)
-        .then(($) => {
-            getPrices($, channel, skinObj)
+        .then(function($){
+            getPrices($, channel, skinObj, currency1);
         })
-
 }
 
-function getPrices($, channel, skinObj) {
-    $('#prices div.btn-group-sm.btn-group-justified').each(function (index1, element1) {
+function getPrices($, channel, skinObj, currency1) {
+    souvenir = "Unavaiable";
+    st = "Unavaiable";
+
+    $('#prices div.btn-group-sm.btn-group-justified').each(async function (index1, element1) {
         if (index1 == 0) {
             null;
         }
         else {
             let name = "";
             if ($(this).find('.price-details-st').text() != '') {
-                name += $(this).find('.price-details-st').text()
-                name += ' ' + $(this).find('.pull-left').next('.pull-left').text()
+                name += $(this).find('.price-details-st').text();
+                name += ' ' + $(this).find('.pull-left').next('.pull-left').text();
             }
             else {
-                name = $(this).find('.pull-left').text()
+                name = $(this).find('.pull-left').text();
             }
 
-            let price = $(this).find('.pull-right').text()
+            let price = $(this).find('.pull-right').text();
             
             let index = name.toLowerCase().search('souvenir');
+            let index1 = name.toLowerCase().search('stattrak');
+
+            let money_index = price.indexOf('$');
+
+            if (money_index >= 0 & currency1 != 'USD'){
+                
+                let spacei = price.search(' ');
+                let dollar = price.slice(spacei + 1, price.length);
+                dollar = dollar.replace('.', '');
+                dollar = dollar.replace(',', '.');
+                dollar = parseInt(dollar);
+
+                if (!currencies){
+                    getValue(currency1);
+                }
+                
+                let value = dollar * euro * currency_value;
+
+                value = value.toFixed(2);
+
+                price = symbols[currency1] + ' ' + value;
+                
+            }
 
             if (index >= 0){
-                name = name.replace('Souvenir', 'Souvenir ')
+                name = name.replace('Souvenir', 'Souvenir');
+                souvenir = "Avaiable";
+            }
+
+            if (index1 >= 0){
+                st = "Avaiable";
             }
 
             description += name + ': ' + price + '\n';
@@ -63,6 +109,9 @@ function getPrices($, channel, skinObj) {
         }
 
     });
+
+    currencies = undefined;
+    currency_value = undefined;
 
     sendEmbed(channel, skinObj);
 }
@@ -83,7 +132,7 @@ function name_right(words) {
     }
 }
 
-function getSkin(skin_name, channel) {
+function getSkin(skin_name, channel, currency1) {
     skin_name = skin_name.toLowerCase();
     skin_words = skin_name.split(' ');
     relevance = 0;
@@ -117,13 +166,13 @@ function getSkin(skin_name, channel) {
         }
 
         if (i == size(skins) - 1) {
-            sendMessage(channel);
+            sendMessage(channel, currency1);
         }
 
     }
 }
 
-function sendMessage(channel) {
+function sendMessage(channel, currency1) {
     if (final.length > 1) {
         channel.send(final.length + 'found, want to see the name of all of them(.Y/.N)');
         channel.send('For more details, enter the entire name of the skin');
@@ -162,7 +211,7 @@ function sendMessage(channel) {
             color = 0x87c7ff;
         }
         else if (skinObj.quality.search('Contraband') >= 0){
-            color = 0xffdd28
+            color = 0xffdd28;
         }
 
         else {
@@ -182,11 +231,14 @@ function sendMessage(channel) {
 
     description += '\nPrices:\n\n';
 
-    getLink(skinObj.skinurl, channel, skinObj);
+    getLink(skinObj.skinurl, channel, skinObj, currency1);
     
 }
 
 function sendEmbed(channel, skinObj){
+    description += '\nStatTrak ' + st;
+    description += '\nSouvenir ' + souvenir;
+
     embed.setTitle(skinObj.name);
     embed.setDescription(description);
     embed.setColor(color);
@@ -196,17 +248,24 @@ function sendEmbed(channel, skinObj){
 
 }
 
-
 client.on('ready', () => {
     console.log('I am ready');
     console.log(size(skins) + ' skins loaded');
+    console.log('My bot is in ' + client.guilds.size +' servers')
     status = 'normal';
 });
 
 client.on('message', message => {
+    if (!currency[message.guild.id]){
+        currency[message.guild.id] = 'USD';
+        
+        fs.writeFileSync('server-currency.json', JSON.stringify(currency));
+    }
+    let currency1 = currency[message.guild.id];
+
     if (message.content.startsWith('.search ')) {
         skin = message.content.slice(8);
-        skinObj = getSkin(skin, message.channel);
+        skinObj = getSkin(skin, message.channel, currency1);
     }
     else if (message.content.replace(/\s/g, '') === '.search') {
         message.channel.send('Enter the name of skin you want to search');
@@ -226,9 +285,44 @@ client.on('message', message => {
 
     else if (message.content.toLowerCase() === '.help'){
         embedHelp = new Discord.RichEmbed()
-            .setDescription("Search skin:\n\n.search [skin name]")
+            .setDescription(".search [skin name] --> Search a skin\n\n.currency --> shows the actual configured currency\n.currency list --> shows the avaiable currencies\n.currency [currency] (e.g: .currency GBP)\n\n.help --> shows this message")
             .setColor(0xffa500)
         message.channel.send(embedHelp);
+    }
+
+    else if (message.content.toLowerCase().startsWith('.currency')){
+        if (message.content.replace(/\s/g, '').length == 9){
+            message.channel.send('Currency selected: ' + currency1);
+        }
+        else if (message.content.search('list') >= 0){
+            let curEmbed = new Discord.RichEmbed();
+            let mes = '';
+            for (var a = 0; a < Object.keys(symbols).length; a++){
+                mes += Object.keys(symbols)[a] + '\n';
+            }
+            curEmbed.setColor(0x008000);
+            curEmbed.setTitle('Currencies');
+            curEmbed.setDescription(mes);
+            message.channel.send(curEmbed);
+        }
+        else if (message.content.length == 13){
+            let validate = false;
+            let in_currency = message.content.toUpperCase().slice(10, 14);
+            for (var a = 0; a < Object.keys(symbols).length; a++){
+                if (in_currency == Object.keys(symbols)[a]){
+                    validate = true;
+                }
+            }
+            if (validate){
+                currency[message.guild.id] = in_currency;
+                message.channel.send('Currency changed to ' + in_currency);
+                fs.writeFileSync('server-currency.json', JSON.stringify(currency));
+            }
+            else{
+                message.channel.send(in_currency + ' currency not found');
+            }
+            
+        }
     }
 
 });
